@@ -1,0 +1,426 @@
+{
+  "participants": [
+    {
+      "name": "Swaroop Vinayaka"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Swaroop Vinayaka",
+      "timestamp_ms": 1486403177463,
+      "content": "Swaroop sent an attachment.",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Swaroop Vinayaka",
+      "timestamp_ms": 1486403177432,
+      "content": "Swaroop Vinayaka sent you an invite to join Messenger.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Swaroop Vinayaka",
+      "timestamp_ms": 1486403163016,
+      "content": "Yep",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1486402955674,
+      "content": "College started?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Swaroop Vinayaka",
+      "timestamp_ms": 1486402906107,
+      "content": "Thank you\u00f0\u009f\u0099\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1486402482893,
+      "content": "Happy birthday man. Sorry for the late wishes.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1469026418160,
+      "content": "I gotta check",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Swaroop Vinayaka",
+      "timestamp_ms": 1469021087617,
+      "content": "Hey yav college serkonde??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1465917261410,
+      "sticker": {
+        "uri": "messages/stickers_used/851582_369239386556143_1497813874_n_369239383222810.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1465917256290,
+      "content": "thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1465917249897,
+      "content": "check",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1465917248300,
+      "content": "okay ill",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Swaroop Vinayaka",
+      "timestamp_ms": 1465917240140,
+      "content": "It's given in d instructions",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Swaroop Vinayaka",
+      "timestamp_ms": 1465917230043,
+      "content": "Yup this is just for practice alla",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1465917213970,
+      "content": "yeah?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Swaroop Vinayaka",
+      "timestamp_ms": 1465917204050,
+      "content": "Put ur application no only as d secret key",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Swaroop Vinayaka",
+      "timestamp_ms": 1465917185393,
+      "content": "Ohh secret key problem??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1465917171632,
+      "content": "mock allotment",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Swaroop Vinayaka",
+      "timestamp_ms": 1465917159322,
+      "content": "Getting in wat?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1465917146780,
+      "content": "im not getting in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Swaroop Vinayaka",
+      "timestamp_ms": 1465917145664,
+      "content": "Wat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1465917140019,
+      "content": "okay tell bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1465917098939,
+      "content": "or CS",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1465917087070,
+      "content": "EEE",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Swaroop Vinayaka",
+      "timestamp_ms": 1465917080216,
+      "content": "Wat will u do nxt?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1465917077625,
+      "content": "in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1465917065199,
+      "content": "anyways im not getting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Swaroop Vinayaka",
+      "timestamp_ms": 1465917064834,
+      "content": "Parvagilla tell",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1465917055205,
+      "content": "more",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Swaroop Vinayaka",
+      "timestamp_ms": 1465917047583,
+      "content": "Rank yeno?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Swaroop Vinayaka",
+      "timestamp_ms": 1465917043355,
+      "content": "Done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1465917037794,
+      "content": "mock",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1465917032851,
+      "content": "not verification",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Swaroop Vinayaka",
+      "timestamp_ms": 1465917021208,
+      "content": "Yeah verification done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1465917010437,
+      "content": "maddha?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1465916987665,
+      "content": "did you get that secretkey stuff???",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Swaroop Vinayaka",
+      "timestamp_ms": 1465916986282,
+      "content": "Counseling alla option entry madbeku",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Swaroop Vinayaka",
+      "timestamp_ms": 1465916931137,
+      "content": "Yeshto rank??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1465916786512,
+      "content": "bro finished counselling?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Swaroop Vinayaka",
+      "timestamp_ms": 1464112534223,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1464112458582,
+      "content": "Thanks. Whatsapp? ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Swaroop Vinayaka",
+      "timestamp_ms": 1464112411616,
+      "content": "7204657637",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1464112339899,
+      "content": "No",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Swaroop Vinayaka",
+      "timestamp_ms": 1464112305750,
+      "content": "U hv my no?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Swaroop Vinayaka",
+      "timestamp_ms": 1464112300807,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1464112289465,
+      "content": "7899426621",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1464112281605,
+      "content": "Nale call maadu ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Swaroop Vinayaka",
+      "timestamp_ms": 1464112238405,
+      "content": "Yeah  I'll tell him",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1464112206906,
+      "content": "Haage number kodu ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1464112193703,
+      "content": "Cool. Call tejas also. ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Swaroop Vinayaka",
+      "timestamp_ms": 1464112172743,
+      "content": "Sari nodana ill meet u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1464112140245,
+      "content": "Okay. 12 agalla. My brother leaves school at 12. Nodu ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Swaroop Vinayaka",
+      "timestamp_ms": 1464112092727,
+      "content": "11",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1464112086938,
+      "content": "Yavag results announce agodhu? ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Swaroop Vinayaka",
+      "timestamp_ms": 1464112057247,
+      "content": "10 30 illa results nodbeku",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1464112023394,
+      "content": "I'll be off at 12",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Swaroop Vinayaka",
+      "timestamp_ms": 1464112017084,
+      "content": "12?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Swaroop Vinayaka",
+      "timestamp_ms": 1464112003586,
+      "content": "Swalpa late agi baaa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Swaroop Vinayaka",
+      "timestamp_ms": 1464111994557,
+      "content": "Noo results nodbekuu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1464111981488,
+      "content": "I'll come around 10.30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Swaroop Vinayaka",
+      "timestamp_ms": 1464111958871,
+      "content": "Frst result nodbeku \u00f0\u009f\u0098\u00ab",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Swaroop Vinayaka",
+      "timestamp_ms": 1464111920566,
+      "content": "Manglore",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Swaroop Vinayaka",
+      "timestamp_ms": 1464111916100,
+      "content": "Phani out of town",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1464111905344,
+      "content": "Call phani and tejas ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Swaroop Vinayaka",
+      "timestamp_ms": 1464111885692,
+      "content": "Sigthini",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1464111871779,
+      "content": "Yep ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Swaroop Vinayaka",
+      "timestamp_ms": 1464111859700,
+      "content": "Ur coming to school?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1464111827870,
+      "content": "Nale siktya? ",
+      "type": "Generic"
+    }
+  ],
+  "title": "Swaroop Vinayaka",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/SwaroopVinayaka_vIfxXNbC1Q"
+}

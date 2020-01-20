@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Gnana Prakash"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gnana Prakash",
+      "timestamp_ms": 1478194227546,
+      "content": "Good night bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gnana Prakash",
+      "timestamp_ms": 1477371945980,
+      "content": "Thanks bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1477365057459,
+      "content": "Happy birthday thambi.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Gnana Prakash",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/GnanaPrakash_Om7u0fsKpQ"
+}

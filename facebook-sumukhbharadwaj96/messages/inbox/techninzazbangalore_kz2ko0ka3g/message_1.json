@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "TechNinzaz Bangalore"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "TechNinzaz Bangalore",
+      "timestamp_ms": 1531119141478,
+      "content": "Hi, I'm inviting you to like my Page because I thought you might be interested in supporting it. You'll receive updates on what's new, and you can interact with other people on this Page.",
+      "share": {
+        "link": "https://www.facebook.com/Techninzaz/?sk=89&app_data"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "TechNinzaz Bangalore",
+      "timestamp_ms": 1511263466402,
+      "content": "Say hi to your new Facebook friend, TechNinzaz.",
+      "type": "Generic"
+    }
+  ],
+  "title": "TechNinzaz Bangalore",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/TechNinzazBangalore_kZ2ko0ka3g"
+}

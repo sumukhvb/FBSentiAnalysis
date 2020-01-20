@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Vinitha Mohan"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vinitha Mohan",
+      "timestamp_ms": 1484718559399,
+      "content": "Tq",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1484717495121,
+      "content": "HBD",
+      "type": "Generic"
+    }
+  ],
+  "title": "Vinitha Mohan",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/VinithaMohan_cZSxiffltw"
+}

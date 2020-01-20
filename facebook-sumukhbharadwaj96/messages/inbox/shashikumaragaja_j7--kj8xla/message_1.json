@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Shashi Kumara Gaja"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1510472758303,
+      "content": "Say hi to your new Facebook friend, Shashi Kumara.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Shashi Kumara Gaja",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ShashiKumaraGaja_j7--KJ8XLA"
+}

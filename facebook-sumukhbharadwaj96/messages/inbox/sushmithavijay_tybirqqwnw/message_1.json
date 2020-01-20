@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Sushmitha Vijay"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sushmitha Vijay",
+      "timestamp_ms": 1504059069613,
+      "content": "Sushmitha is waving at you!",
+      "type": "Share"
+    }
+  ],
+  "title": "Sushmitha Vijay",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/SushmithaVijay_TYBiRQQWnw"
+}

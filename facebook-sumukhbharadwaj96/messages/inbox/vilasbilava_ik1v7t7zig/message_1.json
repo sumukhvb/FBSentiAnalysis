@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Vilas Bilava"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vilas Bilava",
+      "timestamp_ms": 1505722778510,
+      "content": "Say hi to your new Facebook friend, Vilas.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Vilas Bilava",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/VilasBilava_ik1v7T7zig"
+}

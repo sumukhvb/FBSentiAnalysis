@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Suchita Gouda"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Suchita Gouda",
+      "timestamp_ms": 1511669510348,
+      "content": "Say hi to your new Facebook friend, Suchita.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Suchita Gouda",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/SuchitaGouda_5AVBZxQH0Q"
+}

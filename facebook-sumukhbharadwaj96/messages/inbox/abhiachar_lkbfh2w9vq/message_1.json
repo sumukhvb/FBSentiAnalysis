@@ -1,0 +1,106 @@
+{
+  "participants": [
+    {
+      "name": "Abhi Achar"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Abhi Achar",
+      "timestamp_ms": 1500192117609,
+      "content": "ya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1500180247205,
+      "content": "Peace then...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Abhi Achar",
+      "timestamp_ms": 1500135467710,
+      "content": "computer science",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1500135413343,
+      "content": "Which branch?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Abhi Achar",
+      "timestamp_ms": 1500135404875,
+      "content": "I will meet you don't worry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Abhi Achar",
+      "timestamp_ms": 1500135386456,
+      "content": "I am also coming to that college only Bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1500135264206,
+      "content": "Yea.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Abhi Achar",
+      "timestamp_ms": 1500134723759,
+      "content": "u r in amc college no?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Abhi Achar",
+      "timestamp_ms": 1500134702614,
+      "content": "I am also fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1500133037102,
+      "content": "I'm fine dude, you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1500133025072,
+      "content": "Sorry, I didn't see the message...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Abhi Achar",
+      "timestamp_ms": 1500132812493,
+      "content": "riply me Bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Abhi Achar",
+      "timestamp_ms": 1500132795322,
+      "content": "how r u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Abhi Achar",
+      "timestamp_ms": 1500132792002,
+      "content": "hi Bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1493021309864,
+      "content": "Say hi to your new Facebook friend, Abhi.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Abhi Achar",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/AbhiAchar_lkbFh2W9VQ"
+}

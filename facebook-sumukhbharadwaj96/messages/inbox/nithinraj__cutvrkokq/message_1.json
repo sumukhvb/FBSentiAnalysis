@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Nithin Raj"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nithin Raj",
+      "timestamp_ms": 1512363238977,
+      "content": "Say hi to your new Facebook friend, Nithin.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Nithin Raj",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/NithinRaj__CUtVRkOKQ"
+}

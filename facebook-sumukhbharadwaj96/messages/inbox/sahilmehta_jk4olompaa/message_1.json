@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Sahil Mehta"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sahil Mehta",
+      "timestamp_ms": 1530292903284,
+      "content": "Say hi to your new Facebook friend, Sahil.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sahil Mehta",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/SahilMehta_JK4oLoMpaA"
+}

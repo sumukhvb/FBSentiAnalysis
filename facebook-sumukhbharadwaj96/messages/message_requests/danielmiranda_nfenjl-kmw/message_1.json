@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Daniel Miranda"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Daniel Miranda",
+      "timestamp_ms": 1477852474910,
+      "content": "hi u were intersted in the gt10",
+      "share": {
+        "link": "https://www.facebook.com/groups/341179085939631/permalink/1227238070667057/?sale_post_id=1227238070667057"
+      },
+      "type": "Share"
+    }
+  ],
+  "title": "Daniel Miranda",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/DanielMiranda_NFEnjl-Kmw"
+}

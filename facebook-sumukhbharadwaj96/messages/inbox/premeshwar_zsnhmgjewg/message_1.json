@@ -1,0 +1,112 @@
+{
+  "participants": [
+    {
+      "name": "Prem Eshwar"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Prem Eshwar",
+      "timestamp_ms": 1481395893470,
+      "content": "Oh Yeah! Ty bro I'll come back!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1481395773121,
+      "content": "HBD macha! Please come back to college.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Prem Eshwar",
+      "timestamp_ms": 1477163677221,
+      "content": "Okk gn tc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1477161972557,
+      "content": "Vandana ma'am asked about you. A dike.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Prem Eshwar",
+      "timestamp_ms": 1477161928744,
+      "content": "Y bro?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1477160817813,
+      "content": "Ellidyo?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1475915111077,
+      "content": "OK OK",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Prem Eshwar",
+      "timestamp_ms": 1475914470404,
+      "content": "Today!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Prem Eshwar",
+      "timestamp_ms": 1475914465758,
+      "content": "I ws in a meeting going to Mysur",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1475914339332,
+      "content": "Barbekagithu.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Prem Eshwar",
+      "timestamp_ms": 1475914318277,
+      "content": "Why bro?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1475914231291,
+      "content": "Ellidyo?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1475308141755,
+      "content": "Its good, you're missing it.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Prem Eshwar",
+      "timestamp_ms": 1475305096093,
+      "content": "??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Prem Eshwar",
+      "timestamp_ms": 1475305033721,
+      "content": "How's the fest going?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Prem Eshwar",
+      "timestamp_ms": 1474980621268,
+      "content": "Say hi to your new Facebook friend, Prem.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Prem Eshwar",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/PremEshwar_ZSNhmgjEwg"
+}

@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Birbal Sinha"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Birbal Sinha",
+      "timestamp_ms": 1466528846338,
+      "content": "If I do come,  you are the man bro.  I will call you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1466528295500,
+      "content": "anytime you come to bangalore, call me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1466528245417,
+      "content": "cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Birbal Sinha",
+      "timestamp_ms": 1466528229063,
+      "content": "Nah. Its not my album.. Its my friend 's.  I will be featuring and producing his album",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1466528183396,
+      "content": "i see your up to make a new album?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Birbal Sinha",
+      "timestamp_ms": 1466528153266,
+      "content": "Thanks a lot bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1466528121285,
+      "content": "HBD bro!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Birbal Sinha",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "archived_threads/BirbalSinha_AQI91dPxaQ"
+}

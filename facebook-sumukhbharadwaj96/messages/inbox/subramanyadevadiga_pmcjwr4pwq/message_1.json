@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Subramanya Devadiga"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1492966130465,
+      "content": "Say hi to your new Facebook friend, Subramanya.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Subramanya Devadiga",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/SubramanyaDevadiga_PmCjwr4PWQ"
+}

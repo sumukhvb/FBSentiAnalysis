@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Joshitha Giridhar"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1481156791274,
+      "content": "Say hi to your new Facebook friend, Joshitha.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Joshitha Giridhar",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/JoshithaGiridhar_1u0Ki6YXHA"
+}

@@ -1,0 +1,19 @@
+{
+  "participants": [
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1495991147721,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/jgtLgAGfVA"
+}

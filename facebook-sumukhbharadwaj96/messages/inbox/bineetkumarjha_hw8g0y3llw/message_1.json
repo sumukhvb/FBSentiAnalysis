@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Bineet Kumar Jha"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bineet Kumar Jha",
+      "timestamp_ms": 1513012779230,
+      "content": "Say hi to your new Facebook friend, Bineet.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Bineet Kumar Jha",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/BineetKumarJha_HW8G0y3LLw"
+}

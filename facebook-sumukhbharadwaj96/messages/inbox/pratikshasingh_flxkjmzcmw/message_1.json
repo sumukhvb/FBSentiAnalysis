@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Pratiksha Singh"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1482931774867,
+      "content": "Say hi to your new Facebook friend, Pratiksha.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Pratiksha Singh",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/PratikshaSingh_flxkjmZCmw"
+}

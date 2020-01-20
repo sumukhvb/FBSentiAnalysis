@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Shettihalli Nagaraju Tkl"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shettihalli Nagaraju Tkl",
+      "timestamp_ms": 1484846318944,
+      "content": "Shettihalli sent an attachment.",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1484800312940,
+      "content": "Huttu habbada hardika shubhashayagalu sir!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Shettihalli Nagaraju Tkl",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ShettihalliNagarajuTkl_dlcooiPpYw"
+}

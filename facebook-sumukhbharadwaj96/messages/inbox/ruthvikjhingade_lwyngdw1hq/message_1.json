@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Ruthvik Jhingade"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1473796438413,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ruthvik Jhingade",
+      "timestamp_ms": 1473796433100,
+      "content": "I'll tell you when I'm free",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ruthvik Jhingade",
+      "timestamp_ms": 1473796425834,
+      "content": "I've got physics to study bruh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1473796346551,
+      "content": "Then we'll play badminton. Same place same time.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ruthvik Jhingade",
+      "timestamp_ms": 1473796295956,
+      "content": "Yep",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ruthvik Jhingade",
+      "timestamp_ms": 1473796291240,
+      "content": "Still not at a legal age for drinking XD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1473796289446,
+      "content": "Nale holiday?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ruthvik Jhingade",
+      "timestamp_ms": 1473796269513,
+      "content": "Yep",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1473796031295,
+      "content": "Your 17 now?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ruthvik Jhingade",
+      "timestamp_ms": 1473796004730,
+      "content": "Thanks man!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1473795929549,
+      "content": "HBD man",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ruthvik Jhingade",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/RuthvikJhingade_lwYNGdW1hQ"
+}

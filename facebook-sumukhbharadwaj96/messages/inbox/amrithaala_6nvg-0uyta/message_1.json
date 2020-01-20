@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Amrithaa LA"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1537987044635,
+      "content": "Say hi to your new Facebook friend, Amrithaa.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Amrithaa LA",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/AmrithaaLA_6NVg-0uyTA"
+}

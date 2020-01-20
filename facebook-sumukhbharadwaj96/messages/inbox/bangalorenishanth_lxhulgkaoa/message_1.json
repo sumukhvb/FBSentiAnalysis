@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Bangalore Nishanth"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bangalore Nishanth",
+      "timestamp_ms": 1475381868962,
+      "content": "Thank you sumukh  :) :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1475378482844,
+      "content": "Happy birthday nishant",
+      "type": "Generic"
+    }
+  ],
+  "title": "Bangalore Nishanth",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/BangaloreNishanth_lXHULGkAOA"
+}

@@ -1,0 +1,1073 @@
+{
+  "participants": [
+    {
+      "name": "Kumar Ayush"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1509797418460,
+      "content": "Ok bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1509797358853,
+      "content": "Thanks again man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1509797344642,
+      "content": "I was particularly looking for the Jackson...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1509797311137,
+      "content": "Ohhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1509793102034,
+      "photos": [
+        {
+          "uri": "messages/inbox/KumarAyush_aXULfhIBCw/photos/23261916_1702551033089391_1634338479_o_1702551033089391.jpg",
+          "creation_timestamp": 1509793094
+        },
+        {
+          "uri": "messages/inbox/KumarAyush_aXULfhIBCw/photos/23261894_1702551113089383_1866403677_o_1702551113089383.jpg",
+          "creation_timestamp": 1509793100
+        },
+        {
+          "uri": "messages/inbox/KumarAyush_aXULfhIBCw/photos/23232062_1702550746422753_1295651555_n_1702550746422753.jpg",
+          "creation_timestamp": 1509793078
+        },
+        {
+          "uri": "messages/inbox/KumarAyush_aXULfhIBCw/photos/23261724_1702550829756078_1224843984_o_1702550829756078.jpg",
+          "creation_timestamp": 1509793085
+        },
+        {
+          "uri": "messages/inbox/KumarAyush_aXULfhIBCw/photos/23313065_1702550923089402_1883221165_o_1702550923089402.jpg",
+          "creation_timestamp": 1509793089
+        },
+        {
+          "uri": "messages/inbox/KumarAyush_aXULfhIBCw/photos/23261975_1702551093089385_194589050_o_1702551093089385.jpg",
+          "creation_timestamp": 1509793099
+        },
+        {
+          "uri": "messages/inbox/KumarAyush_aXULfhIBCw/photos/23261807_1702550806422747_2055791255_o_1702550806422747.jpg",
+          "creation_timestamp": 1509793083
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1509793069452,
+      "videos": [
+        {
+          "uri": "messages/inbox/KumarAyush_aXULfhIBCw/videos/video1509793067_1702550413089453.mp4",
+          "creation_timestamp": 1509793050,
+          "thumbnail": {
+            "uri": "messages/inbox/KumarAyush_aXULfhIBCw/videos/thumbnails/23245241_1702550636422764_8629616774100287488_n.jpg"
+          }
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1509793047339,
+      "content": "Recently installed new ernie ball strings",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1509793037131,
+      "videos": [
+        {
+          "uri": "messages/inbox/KumarAyush_aXULfhIBCw/videos/video1509793036_1702550203089474.mp4",
+          "creation_timestamp": 1509793035,
+          "thumbnail": {
+            "uri": "messages/inbox/KumarAyush_aXULfhIBCw/videos/thumbnails/23278414_1570477979698650_2126317555617277006_n.jpg"
+          }
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1509793022614,
+      "videos": [
+        {
+          "uri": "messages/inbox/KumarAyush_aXULfhIBCw/videos/video1509793020_1702549136422914.mp4",
+          "creation_timestamp": 1509792972,
+          "thumbnail": {
+            "uri": "messages/inbox/KumarAyush_aXULfhIBCw/videos/thumbnails/23282316_1702550026422825_7187253832823341056_n.jpg"
+          }
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1509792966238,
+      "videos": [
+        {
+          "uri": "messages/inbox/KumarAyush_aXULfhIBCw/videos/video1509792965_1702549003089594.mp4",
+          "creation_timestamp": 1509792964,
+          "thumbnail": {
+            "uri": "messages/inbox/KumarAyush_aXULfhIBCw/videos/thumbnails/23245049_1860591803970109_5590744065385927631_n.jpg"
+          }
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1509792948969,
+      "videos": [
+        {
+          "uri": "messages/inbox/KumarAyush_aXULfhIBCw/videos/video1509792948_1702548893089605.mp4",
+          "creation_timestamp": 1509792946,
+          "thumbnail": {
+            "uri": "messages/inbox/KumarAyush_aXULfhIBCw/videos/thumbnails/23320175_586752008115174_8894358093537563193_n.jpg"
+          }
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1509792927974,
+      "videos": [
+        {
+          "uri": "messages/inbox/KumarAyush_aXULfhIBCw/videos/video1509792927_1702548783089616.mp4",
+          "creation_timestamp": 1509792926,
+          "thumbnail": {
+            "uri": "messages/inbox/KumarAyush_aXULfhIBCw/videos/thumbnails/23245138_1720958947924661_6269819082118545082_n.jpg"
+          }
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1509792907574,
+      "videos": [
+        {
+          "uri": "messages/inbox/KumarAyush_aXULfhIBCw/videos/video1509792906_1702548603089634.mp4",
+          "creation_timestamp": 1509792905,
+          "thumbnail": {
+            "uri": "messages/inbox/KumarAyush_aXULfhIBCw/videos/thumbnails/23231016_1481877035192865_1516103685168312185_n.jpg"
+          }
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1509792854127,
+      "content": "You can see all my pics \nDp n cover or bands",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1509792840302,
+      "content": "Thats why even after jackson I\u00e2\u0080\u0099m using ibanez",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1509792824332,
+      "content": "Trust me better than jackson",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1509792817597,
+      "content": "Amazing af guitar",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1509792813496,
+      "content": "Ibanez grg 220dx passive emg styled pickups with a heavy duty papded gig bag\nNet worth of guitar- 24k\nIs available \nAnd I\u00e2\u0080\u0099m selling it in 8k",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1509792763566,
+      "content": "Jackson with emg is sold out\nSome guy gave me advance to book it for him",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1509792745636,
+      "content": "Anyway bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1509792742052,
+      "content": "The space and availability has been done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1509792724672,
+      "content": "It\u00e2\u0080\u0099s in the guitar",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1509768795481,
+      "content": "Hey man, I had some doubts with the guitar. You said it had EMG 81/85 active, right? I wanted to know where you would put the battery...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1509188417074,
+      "content": "Ok bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1509187825177,
+      "content": "I have to try next Saturday...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1509187814875,
+      "content": "Bro, today bank holiday...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1509168589174,
+      "content": "Any update",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1509168586712,
+      "content": "Hey bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1509136084158,
+      "content": "Any update bro?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508841265600,
+      "content": "Okay bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508830427914,
+      "content": "Please",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508830425814,
+      "content": "Let me know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508830422748,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508814741923,
+      "content": "I'll do something this Saturday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508814727785,
+      "content": "I have college this whole week. So i couldn't go to the bank...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508814701911,
+      "content": "Hey man.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508791197992,
+      "content": "Any update yet bro?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508613073657,
+      "content": "Do it in 3-4 instalments if you want\nOr what you prefer the most",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508613058246,
+      "content": "Let me know when you need my bank details",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508610782067,
+      "content": "I'll do something about the money and the bank...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508610673063,
+      "content": "There\u00e2\u0080\u0099s one gati courier office 8 mins away from my home",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508610529935,
+      "content": "So what\u00e2\u0080\u0099s the plan next?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508610514616,
+      "content": "Yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508610440952,
+      "content": "Yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508610433867,
+      "content": "If it's expensive, you can stick to gati",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508610410320,
+      "content": "For shipping",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508610406523,
+      "content": "You can expect 1k maximum which i feel",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508610393114,
+      "content": "By monday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508610390567,
+      "content": "Also I\u00e2\u0080\u0099ll find some nearby my place",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508610371651,
+      "content": "Gati is great",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508610275342,
+      "content": "Blue dart is expensive...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508610253699,
+      "content": "Blue dart is showing 1980rs for 5 kg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508610239097,
+      "content": "It\u00e2\u0080\u0099s obviously lighter than that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508610230593,
+      "content": "I kept it 10kg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508610226167,
+      "content": "What will be the weight of the guitar",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508610209226,
+      "content": "Shipping is peace...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508610046332,
+      "photos": [
+        {
+          "uri": "messages/inbox/KumarAyush_aXULfhIBCw/photos/22690650_1688317684512726_2122984901_o_1688317684512726.jpg",
+          "creation_timestamp": 1508610045
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508598361219,
+      "content": "From left: ESP M10, Acoustic (GB&a) and a Peavey copy strat...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508598311456,
+      "content": "Which are these",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508598294961,
+      "photos": [
+        {
+          "uri": "messages/inbox/KumarAyush_aXULfhIBCw/photos/22685122_1456065594510550_361347714_n_1456065594510550.jpg",
+          "creation_timestamp": 1508598294
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508598065798,
+      "content": "560076",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508597970844,
+      "content": "Can you tell me you postal code",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508597961874,
+      "content": "Till then I can arrange cash",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508597953132,
+      "content": "Can you ask about the shipping and let me know? And also your total bill (just write it up and add up)...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508597897721,
+      "content": "So let me know what you are upto bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508597869123,
+      "content": "Yess",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508597857171,
+      "content": "So it\u00e2\u0080\u0099ll be soon then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508597845781,
+      "content": "It's just right across the border...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508597829608,
+      "content": "Hopefully",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508597822389,
+      "content": "I think it'll take less than 10 days...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508597797641,
+      "content": "I courier my ex processor \nTo nagaland \nIt took 2 weeks 5 days\nI live in Mumbai",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508597778581,
+      "content": "1-2 week",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508597774974,
+      "content": "Post office courier are the cheapest \nBut that destroys the package \nAnd I don\u00e2\u0080\u0099t want the guitar to be broken parcelling \nI hope you feel the same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508597741624,
+      "content": "What will be the delivery time?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508597720066,
+      "content": "Shipping will cost 1-2k max i guess",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508597698833,
+      "content": "Don\u00e2\u0080\u0099t worry bro\nWe belong to Metal community\nYou can trust me \u00f0\u009f\u00a4\u0098\u00f0\u009f\u008f\u00bb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508597693860,
+      "content": "But I have to know how much is the shipping...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508597678479,
+      "content": "Yeah, that can be done too...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508597643652,
+      "content": "I\u00e2\u0080\u0099m really sorry bro i dont think will be possible \nThe shipping will only be applicable after the whole amount is received.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508597606240,
+      "content": "So i was planning to transfer 7k first and after you send the shipping, the rest 11k",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508597577766,
+      "content": "Okay then what\u00e2\u0080\u0099s the limit of transfer at a time\nYou can do that\nI guess",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508597548648,
+      "content": "I can't transfer the whole amount, because I have a student account, and credit transfers are limited...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508597509552,
+      "content": "So let me know what you are upto",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508597500287,
+      "content": "If you are arranging cash then\nYou can block this guitar by paying me a little advance \nAnd take your time to pay the total amount.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508597455988,
+      "content": "I really wanna buy it..",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508597443642,
+      "content": "Yes...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508597399372,
+      "content": "It\u00e2\u0080\u0099s perfect choice then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508597393631,
+      "content": "Follow my band\nLevyathan- 5 piece thrash groove heavy metal band from Mumbai",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508597331784,
+      "content": "Heavy/thrash metal",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508597270272,
+      "content": "I mean which genre?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508597264565,
+      "content": "Which one?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508597252138,
+      "content": "EMGs will be needed for the genre I play...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508597079085,
+      "content": "That will cost maximum to maximum 500",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508597066750,
+      "content": "And maybe that\u00e2\u0080\u0099s why i reduced the price\nCuz kisiko emg n active pickups nai pasand hoga\nYa fir if anybody wants to make it floating again",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508597016686,
+      "content": "Spring and removing wood plank",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508596996348,
+      "content": "Okay then you can make it with that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508596938372,
+      "content": "No no no. I wanna the floating bridge...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508596895608,
+      "content": "You too want fix bridge?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508596865788,
+      "content": "I have two guitars which are fixed bridges...\u00f0\u009f\u0098\u0085",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508596718117,
+      "content": "Remove that wood block and put strings again to make it tremolo bridge again\nIf you want to\nWell personal choice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508596682887,
+      "content": "Ohh.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508596675126,
+      "content": "As lately i was not using the whammy much",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508596664404,
+      "content": "Yes\nWith a wood plank custom made at at custom shop for instruments",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508596640903,
+      "content": "You've blocked the bridge?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508596453096,
+      "content": "The guitar is fitted additionally with emg 81/85 active pickups\nAs written in the ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508596423813,
+      "content": "Providing custom made flying v shape heavy padded cover worth 4k\nFor free\nWhammy bar\nAnd spring set (original) to make to remove the temporary fix bridge (which i have customised)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508596376108,
+      "photos": [
+        {
+          "uri": "messages/inbox/KumarAyush_aXULfhIBCw/photos/22690597_1688109584533536_770445489_o_1688109584533536.jpg",
+          "creation_timestamp": 1508596363
+        },
+        {
+          "uri": "messages/inbox/KumarAyush_aXULfhIBCw/photos/22690403_1688109754533519_1398786905_o_1688109754533519.jpg",
+          "creation_timestamp": 1508596374
+        },
+        {
+          "uri": "messages/inbox/KumarAyush_aXULfhIBCw/photos/22751262_1688109687866859_1487495230_o_1688109687866859.jpg",
+          "creation_timestamp": 1508596371
+        },
+        {
+          "uri": "messages/inbox/KumarAyush_aXULfhIBCw/photos/22711923_1688109537866874_1767337552_o_1688109537866874.jpg",
+          "creation_timestamp": 1508596357
+        },
+        {
+          "uri": "messages/inbox/KumarAyush_aXULfhIBCw/photos/22712979_1688109554533539_673060987_o_1688109554533539.jpg",
+          "creation_timestamp": 1508596360
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508596304769,
+      "photos": [
+        {
+          "uri": "messages/inbox/KumarAyush_aXULfhIBCw/photos/22690397_1688108727866955_1324720515_o_1688108727866955.jpg",
+          "creation_timestamp": 1508596284
+        },
+        {
+          "uri": "messages/inbox/KumarAyush_aXULfhIBCw/photos/22690713_1688108881200273_2075729613_o_1688108881200273.jpg",
+          "creation_timestamp": 1508596299
+        },
+        {
+          "uri": "messages/inbox/KumarAyush_aXULfhIBCw/photos/22690463_1688108724533622_332772027_o_1688108724533622.jpg",
+          "creation_timestamp": 1508596284
+        },
+        {
+          "uri": "messages/inbox/KumarAyush_aXULfhIBCw/photos/22766670_1688108467866981_434236047_o_1688108467866981.jpg",
+          "creation_timestamp": 1508596258
+        },
+        {
+          "uri": "messages/inbox/KumarAyush_aXULfhIBCw/photos/22751078_1688108634533631_623358406_o_1688108634533631.jpg",
+          "creation_timestamp": 1508596272
+        },
+        {
+          "uri": "messages/inbox/KumarAyush_aXULfhIBCw/photos/22751460_1688108787866949_2015689495_o_1688108787866949.jpg",
+          "creation_timestamp": 1508596291
+        },
+        {
+          "uri": "messages/inbox/KumarAyush_aXULfhIBCw/photos/22751022_1688108814533613_427344708_o_1688108814533613.jpg",
+          "creation_timestamp": 1508596293
+        },
+        {
+          "uri": "messages/inbox/KumarAyush_aXULfhIBCw/photos/22686665_1688108884533606_1746657153_n_1688108884533606.jpg",
+          "creation_timestamp": 1508596299
+        },
+        {
+          "uri": "messages/inbox/KumarAyush_aXULfhIBCw/photos/22711780_1688108771200284_804594404_o_1688108771200284.jpg",
+          "creation_timestamp": 1508596289
+        },
+        {
+          "uri": "messages/inbox/KumarAyush_aXULfhIBCw/photos/22711799_1688108601200301_1768116211_o_1688108601200301.jpg",
+          "creation_timestamp": 1508596269
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508596268071,
+      "content": "Kumar sent an attachment.",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508596220782,
+      "content": "Oh omay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508595857142,
+      "content": "Indigo live",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508595850469,
+      "content": "I know Nikhil. Have met him.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508595777434,
+      "content": "Seen them live at cad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508595770687,
+      "content": "Chaos is amazing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508595766265,
+      "content": "Yes man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508595720507,
+      "content": "BTW, I saw you're a friend of Nikhil Wartooth of Chaos",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508595659918,
+      "content": "That's great...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508595640568,
+      "content": "And yeah I dropped the price to 18k (excluding shipping)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508595638396,
+      "content": "Bangalore",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508595620386,
+      "content": "Btw where do you live",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508595608558,
+      "content": "Hold one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508595606777,
+      "content": "Sure I\u00e2\u0080\u0099ll send everything now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508595579483,
+      "content": "Of*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508595572746,
+      "content": "Also if the bills and what you're gonna give away with it...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508595554345,
+      "content": "Yes bro hold one a minute",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508595539738,
+      "content": "Can you send more pics of the Jackson?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508595522554,
+      "content": "Hey...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508501875969,
+      "content": "Any update?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508168584845,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508163401669,
+      "content": "I'll see man. I'll let you know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508163382195,
+      "content": "Oh..",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508157547290,
+      "content": "I\u00e2\u0080\u0099m in dire need of money\nSome sick problem have arrived.\nIf pay me now a little \nI\u00e2\u0080\u0099ll keep it booked for you\nAnd reduce the price to 18k\nIf you pre book it with 3-4k",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508154123878,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508154110237,
+      "content": "Give me 2 weeks time. I'll tell you...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508154058929,
+      "content": "Bro till when will you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508150533485,
+      "content": "Ok bro will be waiting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508150523052,
+      "content": "I'll check with finances and let know...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508150507808,
+      "content": "Hmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508150500462,
+      "content": "Anywhere in india",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508150497402,
+      "content": "Yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508150491446,
+      "content": "Is shipping available for Bangalore?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508150485519,
+      "content": "So whats your call?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508150476518,
+      "content": "Hmmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508150460081,
+      "content": "Yes it can be if you book it by little advance",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508150444640,
+      "content": "For I have to arrange cash",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508150435823,
+      "content": "Will it be available for a month?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508150412263,
+      "content": "It\u00e2\u0080\u0099s available \nThough few have asked about it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508150404350,
+      "content": "Hey I\u00e2\u0080\u0099m interested in selling",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kumar Ayush",
+      "timestamp_ms": 1508150395196,
+      "content": "You can now call each other and see information like Active Status and when you've read messages.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1508150386899,
+      "content": "Hey, as per the post in Bangalore used musical instruments, I am interested in the Jackson",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kumar Ayush",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/KumarAyush_aXULfhIBCw"
+}

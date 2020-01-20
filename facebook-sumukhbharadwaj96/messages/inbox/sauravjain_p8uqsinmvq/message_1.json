@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Saurav Jain"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Saurav Jain",
+      "timestamp_ms": 1502702680589,
+      "content": "Saurav is waving at you!",
+      "type": "Share"
+    }
+  ],
+  "title": "Saurav Jain",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/SauravJain_P8UqsinmvQ"
+}

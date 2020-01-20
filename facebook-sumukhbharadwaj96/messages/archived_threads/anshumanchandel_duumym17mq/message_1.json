@@ -1,0 +1,466 @@
+{
+  "participants": [
+    {
+      "name": "Anshuman Chandel"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1464334663681,
+      "content": "Okay bro. I'll let you know if there's any other gig. ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anshuman Chandel",
+      "timestamp_ms": 1464334560599,
+      "content": "Hey..\nGood to know man, but I'm out of the state for few days. I'll be back on 7th so unfortunately I'll have to miss this one.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1464334362141,
+      "content": "Hey bro, 5th is my teacher's band night at indigo live, koromangala. Me, you, rintu if possible, we'll go. 7.00 onwards. 300 per head. Let me know when you're free. ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1450894376299,
+      "sticker": {
+        "uri": "messages/stickers_used/851587_369239346556147_162929011_n_369239343222814.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1450894373388,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1450894368971,
+      "sticker": {
+        "uri": "messages/stickers_used/851587_369239346556147_162929011_n_369239343222814.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1450894254618,
+      "content": "allright good night man!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anshuman Chandel",
+      "timestamp_ms": 1450894223423,
+      "content": "goodnight bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anshuman Chandel",
+      "timestamp_ms": 1450894221033,
+      "content": "ill log out in a bit so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anshuman Chandel",
+      "timestamp_ms": 1450894216817,
+      "content": "it was good talking to u man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anshuman Chandel",
+      "timestamp_ms": 1450894211651,
+      "content": "cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1450894175950,
+      "content": "cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anshuman Chandel",
+      "timestamp_ms": 1450894161273,
+      "content": "something will come up for sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anshuman Chandel",
+      "timestamp_ms": 1450894153248,
+      "content": "nothing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anshuman Chandel",
+      "timestamp_ms": 1450894152040,
+      "content": "as of now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anshuman Chandel",
+      "timestamp_ms": 1450894149952,
+      "content": "aaa ill plan smthn out with colleagues.. office friends",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anshuman Chandel",
+      "timestamp_ms": 1450894138424,
+      "content": "hehe dont know... well not that long i suppose",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1450894132533,
+      "content": "what plans for new year",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1450894109488,
+      "content": "just have to wait an another year?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anshuman Chandel",
+      "timestamp_ms": 1450894066958,
+      "content": "no rock shows nothing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anshuman Chandel",
+      "timestamp_ms": 1450894055132,
+      "content": "aa not really man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1450894035862,
+      "content": "any rock news",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anshuman Chandel",
+      "timestamp_ms": 1450894017591,
+      "content": "good man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1450894010952,
+      "content": "you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1450893871237,
+      "content": "yeah cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anshuman Chandel",
+      "timestamp_ms": 1450893854057,
+      "content": "cool man.. everything else good ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1450893800641,
+      "content": "Yeah totally have to accept the fact",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anshuman Chandel",
+      "timestamp_ms": 1450893713811,
+      "content": "guitars and errthing after that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anshuman Chandel",
+      "timestamp_ms": 1450893707069,
+      "content": "haan chal study for now :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1450893663319,
+      "content": "i get to practice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1450893644802,
+      "content": "Only 3 hours a week.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1450893627689,
+      "content": "for three months i have to study. to pass PU and CETs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1450893592396,
+      "content": "not much time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anshuman Chandel",
+      "timestamp_ms": 1450893571445,
+      "content": "practicin enough",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anshuman Chandel",
+      "timestamp_ms": 1450893564231,
+      "content": "wbu man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1450893556370,
+      "content": "Great!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anshuman Chandel",
+      "timestamp_ms": 1450893481184,
+      "content": "thinking of getting some drum lessons",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anshuman Chandel",
+      "timestamp_ms": 1450893474980,
+      "content": "dont hv my guitar here man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1450893445508,
+      "content": "get time to practice?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1450893433581,
+      "content": "So how's music?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1450893415164,
+      "content": "hmmmm....",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anshuman Chandel",
+      "timestamp_ms": 1450893389666,
+      "content": "yeah man kind off..not permanently though.. dont worry :P",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1450893317064,
+      "content": "planning to settle here?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1450893289475,
+      "content": "oh okay...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anshuman Chandel",
+      "timestamp_ms": 1450893262448,
+      "content": "mg road",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anshuman Chandel",
+      "timestamp_ms": 1450893261437,
+      "content": "naa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1450893252187,
+      "content": "electronic city?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anshuman Chandel",
+      "timestamp_ms": 1450893212409,
+      "content": "catchpoint systms",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1450893168881,
+      "content": "in?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anshuman Chandel",
+      "timestamp_ms": 1450893145768,
+      "content": "to be precise .. i am a associate technical account manager :P haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1450893117209,
+      "content": "what do you do?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anshuman Chandel",
+      "timestamp_ms": 1450893078868,
+      "content": "dude.. office pg..office pg..sleep..thats it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1450893061348,
+      "content": "what's up with you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1450893032519,
+      "content": "yeah got to.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anshuman Chandel",
+      "timestamp_ms": 1450893010177,
+      "content": "do well :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anshuman Chandel",
+      "timestamp_ms": 1450893007417,
+      "content": "cool man...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anshuman Chandel",
+      "timestamp_ms": 1450893002865,
+      "content": "yea i rarely see ya online man...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1450892999079,
+      "content": "i've got preps",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1450892988083,
+      "content": "same pinch that i too have a hectic schedule",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1450892965279,
+      "content": "i too dont go online.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anshuman Chandel",
+      "timestamp_ms": 1450892955434,
+      "content": "same pinch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anshuman Chandel",
+      "timestamp_ms": 1450892950898,
+      "content": "oh cool bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1450892932795,
+      "content": "few weeks back",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anshuman Chandel",
+      "timestamp_ms": 1450892914856,
+      "content": "today?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1450892894425,
+      "content": "i met up with rintu online",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anshuman Chandel",
+      "timestamp_ms": 1450892872963,
+      "content": "working now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anshuman Chandel",
+      "timestamp_ms": 1450892867537,
+      "content": "yea man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1450892851497,
+      "content": "you still in bangalore?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1450892836357,
+      "content": "yeah?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anshuman Chandel",
+      "timestamp_ms": 1450892808066,
+      "content": "haha same pinch man...im on a hectic schedule these days",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1450892780446,
+      "content": "tryng to catch some sleep",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1450892771637,
+      "content": "nothing much",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anshuman Chandel",
+      "timestamp_ms": 1450892749701,
+      "content": "ssp dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1450892736404,
+      "content": "hey man!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Anshuman Chandel",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "archived_threads/AnshumanChandel_DUUMym17MQ"
+}

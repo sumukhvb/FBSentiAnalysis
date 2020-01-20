@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Einstein Samarpan"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Einstein Samarpan",
+      "timestamp_ms": 1526234263698,
+      "content": "Say hi to your new Facebook friend, Einstein.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Einstein Samarpan",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/EinsteinSamarpan_OR0RW-S_Mg"
+}

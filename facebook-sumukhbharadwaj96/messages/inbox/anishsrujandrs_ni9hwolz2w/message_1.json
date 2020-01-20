@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Anish Srujan Drs"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anish Srujan Drs",
+      "timestamp_ms": 1491133474429,
+      "content": "Say hi to your new Facebook friend, Anish Srujan.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Anish Srujan Drs",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/AnishSrujanDrs_Ni9HWOLZ2w"
+}

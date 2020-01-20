@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Udbhav Moorchung"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Udbhav Moorchung",
+      "timestamp_ms": 1507648699525,
+      "content": "Udbhav is waving at you!",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1466791079182,
+      "content": "hey",
+      "type": "Generic"
+    }
+  ],
+  "title": "Udbhav Moorchung",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/UdbhavMoorchung_T1LtXTye8A"
+}

@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Shreya Prakash"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shreya Prakash",
+      "timestamp_ms": 1497068237126,
+      "content": "Tysm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1497066942429,
+      "content": "HBD shreya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreya Prakash",
+      "timestamp_ms": 1465565055261,
+      "content": "thanku",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1465529998623,
+      "content": "HBD Shreya",
+      "type": "Generic"
+    }
+  ],
+  "title": "Shreya Prakash",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ShreyaPrakash_fiRZqe-nmA"
+}

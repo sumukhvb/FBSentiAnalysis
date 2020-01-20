@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Navya Shree"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Navya Shree",
+      "timestamp_ms": 1494044769848,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Navya Shree",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/NavyaShree_8VW57cYs-g"
+}

@@ -1,0 +1,184 @@
+{
+  "participants": [
+    {
+      "name": "Athira M Nair"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1469785926105,
+      "content": "Akshay is in TJohn. Rahul might come to TJohn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Athira M Nair",
+      "timestamp_ms": 1469785323862,
+      "content": "Nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1469784055714,
+      "content": "Got in amc. Info science",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Athira M Nair",
+      "timestamp_ms": 1469782888024,
+      "content": "U",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Athira M Nair",
+      "timestamp_ms": 1469782887035,
+      "content": "Im doing b pharmacy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Athira M Nair",
+      "timestamp_ms": 1469782870523,
+      "content": "U",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Athira M Nair",
+      "timestamp_ms": 1469782869194,
+      "content": "T John",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1469781442558,
+      "content": "Which clg did you get finally?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467646872829,
+      "content": "-_-",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Athira M Nair",
+      "timestamp_ms": 1467646860040,
+      "content": "-_- *",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467646356628,
+      "content": "okay thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Athira M Nair",
+      "timestamp_ms": 1467646344946,
+      "content": "ALL THE BEST :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467646340201,
+      "content": "i dont understand shorthands",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467646328852,
+      "content": "whats atb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Athira M Nair",
+      "timestamp_ms": 1467646305491,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467646227142,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Athira M Nair",
+      "timestamp_ms": 1467646209527,
+      "content": "Atb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Athira M Nair",
+      "timestamp_ms": 1467646204922,
+      "content": "Oh nice okok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Athira M Nair",
+      "timestamp_ms": 1467646200018,
+      "content": "Idk about that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467646198008,
+      "content": "ive applied for second round",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467646188313,
+      "content": "SRSIT",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467646185484,
+      "content": "i got some college in chikjalla",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Athira M Nair",
+      "timestamp_ms": 1467646165847,
+      "content": "Wbu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Athira M Nair",
+      "timestamp_ms": 1467646162039,
+      "content": "Blah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Athira M Nair",
+      "timestamp_ms": 1467646159273,
+      "content": "I didn't even go through cet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467646018081,
+      "content": "which college did you get>",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Athira M Nair",
+      "timestamp_ms": 1467646007849,
+      "content": "No",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467645880774,
+      "content": "did you apply for second round?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Athira M Nair",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/AthiraMNair_XUjRplfhfw"
+}

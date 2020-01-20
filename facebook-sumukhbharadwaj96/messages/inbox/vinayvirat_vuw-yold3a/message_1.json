@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Vinay Virat"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vinay Virat",
+      "timestamp_ms": 1525962569172,
+      "content": "Say hi to your new Facebook friend, Vinay.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Vinay Virat",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/VinayVirat_vUw-YOld3A"
+}

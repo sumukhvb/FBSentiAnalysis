@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Tejaswini Rao"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tejaswini Rao",
+      "timestamp_ms": 1476110846640,
+      "content": "Okie..",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1476027119988,
+      "content": "Chat on what's app",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tejaswini Rao",
+      "timestamp_ms": 1476024713040,
+      "content": "Ohk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1476024672371,
+      "content": "Her sis I knew through her.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1476024657444,
+      "content": "Nan college junior/Neighbour.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tejaswini Rao",
+      "timestamp_ms": 1476024444953,
+      "content": "Heyyy.  How do you know varsha nadig and greeshma nadig??",
+      "type": "Generic"
+    }
+  ],
+  "title": "Tejaswini Rao",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/TejaswiniRao_Xjczj11yqA"
+}

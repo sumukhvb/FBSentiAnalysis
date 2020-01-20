@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Vathsa Bharadwaj"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1487073378246,
+      "content": "Say hi to your new Facebook friend, Vathsa.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Vathsa Bharadwaj",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/VathsaBharadwaj_iocz6awCzw"
+}

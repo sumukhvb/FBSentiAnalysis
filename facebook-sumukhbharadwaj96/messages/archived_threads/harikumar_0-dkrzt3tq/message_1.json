@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Hari Kumar"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1465267098621,
+      "content": "Say hi to your new Facebook friend, Hari.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Hari Kumar",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "archived_threads/HariKumar_0-dkRZt3tQ"
+}

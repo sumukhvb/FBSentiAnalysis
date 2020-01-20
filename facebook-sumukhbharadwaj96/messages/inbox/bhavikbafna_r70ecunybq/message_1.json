@@ -1,0 +1,288 @@
+{
+  "participants": [
+    {
+      "name": "Bhavik Bafna"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bhavik Bafna",
+      "timestamp_ms": 1475990789517,
+      "content": "Thanks\u00e2\u009d\u00a4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1475987496830,
+      "content": "HBD brother!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1469781281698,
+      "content": "Nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhavik Bafna",
+      "timestamp_ms": 1469698154478,
+      "content": "Friend did it bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1469634575601,
+      "content": "How did you do that pic?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhavik Bafna",
+      "timestamp_ms": 1467573208286,
+      "content": "Yeah cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467573197725,
+      "content": "#LowNetPack",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467573182198,
+      "content": "Gtg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467573178779,
+      "content": "Cool bro ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhavik Bafna",
+      "timestamp_ms": 1467573152007,
+      "content": "Yeahh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467573141538,
+      "content": "You won't come back until you finish? ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhavik Bafna",
+      "timestamp_ms": 1467573111360,
+      "content": "Yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467573098955,
+      "content": "You're in your relatives place eh? ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhavik Bafna",
+      "timestamp_ms": 1467573068847,
+      "content": "Only me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467573049557,
+      "content": "Why, house shift? ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhavik Bafna",
+      "timestamp_ms": 1467573035083,
+      "content": "Yep",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467573030880,
+      "content": "Where are you, Mumbai? ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467572989478,
+      "content": "Okay okay okay ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhavik Bafna",
+      "timestamp_ms": 1467572972298,
+      "content": "He'll tell you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhavik Bafna",
+      "timestamp_ms": 1467572966497,
+      "content": "Ask him for the info you need",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467572951096,
+      "content": "I didn't get you? ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhavik Bafna",
+      "timestamp_ms": 1467572938333,
+      "content": "He's a member of that team also",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhavik Bafna",
+      "timestamp_ms": 1467572927242,
+      "content": "Ask him",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467572921054,
+      "content": "I've not told him",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467572913356,
+      "content": "No ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467572906055,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhavik Bafna",
+      "timestamp_ms": 1467572905742,
+      "content": "Raj will have a proper idea about it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhavik Bafna",
+      "timestamp_ms": 1467572895288,
+      "content": "All good hbu?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467572861198,
+      "content": "So how's life? ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467572847307,
+      "sticker": {
+        "uri": "messages/stickers_used/851587_369239346556147_162929011_n_369239343222814.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhavik Bafna",
+      "timestamp_ms": 1467572833978,
+      "content": "Bcom+ marketing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467572821779,
+      "content": "What have you taken? ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467572813198,
+      "content": "Okay ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhavik Bafna",
+      "timestamp_ms": 1467572800684,
+      "content": "No idea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467572788995,
+      "content": "Engg ec",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhavik Bafna",
+      "timestamp_ms": 1467572785432,
+      "content": "I'll ask and let uk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhavik Bafna",
+      "timestamp_ms": 1467572774434,
+      "content": "Ehich course?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467572758483,
+      "content": "Mine still have to decide ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467572743966,
+      "content": "Bro you have any idea about management fee for Jain university??? ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhavik Bafna",
+      "timestamp_ms": 1467572723325,
+      "content": "You?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467572719601,
+      "content": "Nice ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467572714919,
+      "content": "Wow ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhavik Bafna",
+      "timestamp_ms": 1467572704202,
+      "content": "Mumbai university bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467572687298,
+      "content": "Which college? ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467572681525,
+      "content": "Hey bro ",
+      "type": "Generic"
+    }
+  ],
+  "title": "Bhavik Bafna",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/BhavikBafna_r70ECunybQ"
+}

@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Srinidhi Vasistha"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Srinidhi Vasistha",
+      "timestamp_ms": 1523297193048,
+      "content": "Howda\nOkok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1523296063454,
+      "content": "Illa sumnae mathadakke...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Srinidhi Vasistha",
+      "timestamp_ms": 1523295952540,
+      "content": "Eno problem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Srinidhi Vasistha",
+      "timestamp_ms": 1523295948408,
+      "content": "Oh howda\nUnknown number connect agalla lo Nan mobile ge",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1523295913705,
+      "content": "Mane hatra siktya antha minesh kelida...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1523295895300,
+      "content": "I tried calling you today, busy barthithu...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Srinidhi Vasistha",
+      "timestamp_ms": 1523290575710,
+      "content": "Thank you \u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1523249595407,
+      "content": "Happy birthday boss!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Srinidhi Vasistha",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/SrinidhiVasistha_SYN1vOnXqw"
+}

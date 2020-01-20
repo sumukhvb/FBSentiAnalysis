@@ -1,0 +1,222 @@
+{
+  "participants": [
+    {
+      "name": "Eddie Rambo"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1505140694436,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eddie Rambo",
+      "timestamp_ms": 1505140672293,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eddie Rambo",
+      "timestamp_ms": 1505140668739,
+      "content": "He's good too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1505140650560,
+      "content": "I'm fine. How's Shaun sir?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eddie Rambo",
+      "timestamp_ms": 1505140624523,
+      "content": "Good bro, u?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1505140613012,
+      "content": "How are you sir?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eddie Rambo",
+      "timestamp_ms": 1505140599777,
+      "content": "Thanks brother",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1505140445830,
+      "content": "HBD sir.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1485501064422,
+      "content": "Btw pass your number. Can call you if I couldn't find your place.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1485501026277,
+      "content": "Okay.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eddie Rambo",
+      "timestamp_ms": 1485500993772,
+      "content": "Eve by 5-6 cool ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1485497182946,
+      "content": "Tomorrow what time can I come?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eddie Rambo",
+      "timestamp_ms": 1485185171479,
+      "content": "cool bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1485183630726,
+      "content": "I'll tag along anirudh and one of my friends.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eddie Rambo",
+      "timestamp_ms": 1485183629729,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1485183608706,
+      "content": "Saturday.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eddie Rambo",
+      "timestamp_ms": 1485183583746,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eddie Rambo",
+      "timestamp_ms": 1485183581846,
+      "content": "Sat sun anytime bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1485183091506,
+      "content": "Its been a long time seeing you all.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1485183076358,
+      "content": "When can I come. I also wanna meet shaun sir.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eddie Rambo",
+      "timestamp_ms": 1485182293044,
+      "content": "Anytime",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eddie Rambo",
+      "timestamp_ms": 1485182285092,
+      "content": "Sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1485182093726,
+      "content": "Hey sir, I have some doubts in some areas of guitaring. Can I come over and clear them with you???",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1473594613138,
+      "content": "Happy Birthday Sir!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467231131944,
+      "content": "thank you sir",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eddie Rambo",
+      "timestamp_ms": 1467231114267,
+      "content": "al the bst",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eddie Rambo",
+      "timestamp_ms": 1467231106011,
+      "content": "lol, yeah.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467231098865,
+      "content": "painful work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467231091907,
+      "content": "i was entering options for #SeatAllotment of #CET",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eddie Rambo",
+      "timestamp_ms": 1467231063277,
+      "content": "oh , wts up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467231038098,
+      "content": "its a bit rough xD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eddie Rambo",
+      "timestamp_ms": 1467231017736,
+      "content": "Hello, how is it goin ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467222343621,
+      "content": "Hello sir",
+      "type": "Generic"
+    }
+  ],
+  "title": "Eddie Rambo",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/EddieRambo_mS8JLN7MHw"
+}

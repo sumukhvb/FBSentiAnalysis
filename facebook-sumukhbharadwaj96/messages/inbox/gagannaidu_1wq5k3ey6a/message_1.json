@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Gagan Naidu"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gagan Naidu",
+      "timestamp_ms": 1501249949028,
+      "content": "Say hi to your new Facebook friend, Gagan.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Gagan Naidu",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/GaganNaidu_1Wq5k3EY6A"
+}

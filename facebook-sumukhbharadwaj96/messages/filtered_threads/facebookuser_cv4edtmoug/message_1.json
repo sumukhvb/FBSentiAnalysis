@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Facebook User"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1426746976536,
+      "content": "Sup bro!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1404575405638,
+      "content": "Hey bro...add me in ur friend list",
+      "type": "Generic"
+    }
+  ],
+  "title": "Facebook User",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "filtered_threads/FacebookUser_CV4EdTmoUg"
+}

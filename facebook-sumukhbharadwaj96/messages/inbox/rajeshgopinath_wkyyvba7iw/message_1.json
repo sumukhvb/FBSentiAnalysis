@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Rajesh Gopinath"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1497973365777,
+      "content": "Hey, do you have those husky puppies?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rajesh Gopinath",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/RajeshGopinath_WkyYvBa7Iw"
+}

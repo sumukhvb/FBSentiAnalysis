@@ -1,0 +1,124 @@
+{
+  "participants": [
+    {
+      "name": "Adiba Khan"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467142018498,
+      "content": "good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467142016948,
+      "content": "oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adiba Khan",
+      "timestamp_ms": 1467142006909,
+      "content": "electronics, math ,computer science",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467141978695,
+      "content": "emc?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adiba Khan",
+      "timestamp_ms": 1467141964707,
+      "content": "oh EMCs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467141910231,
+      "content": "which branch like maths computer etc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467141893904,
+      "content": "noooooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adiba Khan",
+      "timestamp_ms": 1467141880915,
+      "content": "jayanagar",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467141849414,
+      "content": "which branch?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adiba Khan",
+      "timestamp_ms": 1467141831858,
+      "content": "Im doing my bsc in nmkrv",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467141807828,
+      "content": "which college did ye get?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adiba Khan",
+      "timestamp_ms": 1467141803321,
+      "content": "so yu doing engineering ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adiba Khan",
+      "timestamp_ms": 1467141790119,
+      "content": "hehehe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adiba Khan",
+      "timestamp_ms": 1467141782767,
+      "content": "hmmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467141782548,
+      "content": "followed by sleeplessness",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467141771653,
+      "content": "nothing just joblessnesss",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adiba Khan",
+      "timestamp_ms": 1467141746435,
+      "content": "hey wassup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467141368544,
+      "content": "oy",
+      "type": "Generic"
+    }
+  ],
+  "title": "Adiba Khan",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/AdibaKhan_4ke0_VMJCQ"
+}

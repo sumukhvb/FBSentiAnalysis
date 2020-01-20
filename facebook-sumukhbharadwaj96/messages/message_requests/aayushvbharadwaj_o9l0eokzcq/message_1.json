@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Aayush V Bharadwaj"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aayush V Bharadwaj",
+      "timestamp_ms": 1480953406293,
+      "content": "Pengaas",
+      "type": "Generic"
+    }
+  ],
+  "title": "Aayush V Bharadwaj",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/AayushVBharadwaj_o9L0EoKzcQ"
+}

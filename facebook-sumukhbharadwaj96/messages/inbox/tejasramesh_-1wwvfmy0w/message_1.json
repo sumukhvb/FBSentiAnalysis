@@ -1,0 +1,220 @@
+{
+  "participants": [
+    {
+      "name": "Tejas Ramesh"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tejas Ramesh",
+      "timestamp_ms": 1467993457018,
+      "content": "Huh...gothaithu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467992242674,
+      "content": "visya gothaitha?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1466576557629,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1466576555876,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tejas Ramesh",
+      "timestamp_ms": 1466576538928,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1466576460266,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tejas Ramesh",
+      "timestamp_ms": 1466576448198,
+      "content": "2nd option?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1466576420669,
+      "content": "Also ie ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1466576415753,
+      "content": "Same cs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tejas Ramesh",
+      "timestamp_ms": 1466576373758,
+      "content": "Wbu?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tejas Ramesh",
+      "timestamp_ms": 1466576369896,
+      "content": "Cs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1466576353064,
+      "content": "Which course? ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1466576323007,
+      "content": "Asthe ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1466576317146,
+      "content": "\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1466576311108,
+      "content": "\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tejas Ramesh",
+      "timestamp_ms": 1466576261844,
+      "content": "Rv ...u?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1466576013901,
+      "content": "Which college did you apply ra? ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1466575830073,
+      "content": "Mams",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1464060031136,
+      "content": "Cool ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tejas Ramesh",
+      "timestamp_ms": 1464060015252,
+      "content": "Fine...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1464059940503,
+      "content": "Yeah, and tell me. ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1464059902298,
+      "content": "Now the school is open till 12 only. ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tejas Ramesh",
+      "timestamp_ms": 1464059885810,
+      "content": "Yeah lemme talk 2 swaroop and phani as well..",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1464059848732,
+      "content": "So... we'll go in the morning. Come back before 1.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tejas Ramesh",
+      "timestamp_ms": 1464059802873,
+      "content": "2morrow is our pu results dude..",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1464059758765,
+      "content": "Yeah. I'm going tomorrow. Wanna come? ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tejas Ramesh",
+      "timestamp_ms": 1464059713983,
+      "content": "Oh...think we shouldbgo 2 school now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1464059608265,
+      "content": "Bonafide certificate: 2 Nos.\nOne from 1 to 7\nOther from 7 to 10",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tejas Ramesh",
+      "timestamp_ms": 1464059537256,
+      "content": "Wat certificate?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1464059518083,
+      "content": "Then what? ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tejas Ramesh",
+      "timestamp_ms": 1464059499705,
+      "content": "Not yet...is it required?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1464059450600,
+      "content": "For CET?? ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1464059439463,
+      "content": "Macha did you get your school certificate? ",
+      "type": "Generic"
+    }
+  ],
+  "title": "Tejas Ramesh",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/TejasRamesh_-1WwVFmY0w"
+}

@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Rashmi D Rash"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1507804932499,
+      "content": "Say hi to your new Facebook friend, Rashmi.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rashmi D Rash",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/RashmiDRash_-kO-E7Dykg"
+}

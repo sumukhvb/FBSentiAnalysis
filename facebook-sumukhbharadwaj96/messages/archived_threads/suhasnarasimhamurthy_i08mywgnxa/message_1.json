@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Suhas Narasimha Murthy"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Suhas Narasimha Murthy",
+      "timestamp_ms": 1458367686419,
+      "content": "You missed a call from Suhas.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true
+    },
+    {
+      "sender_name": "Suhas Narasimha Murthy",
+      "timestamp_ms": 1458367626747,
+      "content": "Need to speak with aunty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhas Narasimha Murthy",
+      "timestamp_ms": 1458367605739,
+      "content": "Can you give the mobile to mom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhas Narasimha Murthy",
+      "timestamp_ms": 1458367586423,
+      "content": "Please reply fast",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhas Narasimha Murthy",
+      "timestamp_ms": 1458367565218,
+      "content": "Hi sumukh",
+      "type": "Generic"
+    }
+  ],
+  "title": "Suhas Narasimha Murthy",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "archived_threads/SuhasNarasimhaMurthy_I08MYwgnxA"
+}

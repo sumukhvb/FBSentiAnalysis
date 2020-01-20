@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Prajwal Nidoni"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1515324506645,
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Prajwal Nidoni",
+      "timestamp_ms": 1470625861770,
+      "content": "Say hi to your new Facebook friend, Prajwal.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Prajwal Nidoni",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/PrajwalNidoni_qder3D-SzA"
+}

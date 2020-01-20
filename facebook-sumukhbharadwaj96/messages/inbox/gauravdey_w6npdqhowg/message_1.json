@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Gaurav Dey"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gaurav Dey",
+      "timestamp_ms": 1477820421965,
+      "content": "Can't reduce",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gaurav Dey",
+      "timestamp_ms": 1477820407707,
+      "content": "Sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1477820394923,
+      "content": "Let me know if you can reduce it a bit.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1477820380024,
+      "content": "OK. I'll get back to you.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gaurav Dey",
+      "timestamp_ms": 1477820344515,
+      "content": "18500",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1477820329782,
+      "content": "How much best you can give?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gaurav Dey",
+      "timestamp_ms": 1477820306147,
+      "content": "Sorry ... Price not negotiable",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1477820284417,
+      "content": "I'm a student, actually, and my budget is around 12 to 13.....",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gaurav Dey",
+      "timestamp_ms": 1477820133596,
+      "content": "Marathahalli near JP Morgan office",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gaurav Dey",
+      "timestamp_ms": 1477820112525,
+      "content": "You can now call each other and see information like Active Status and when you've read messages.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1477819530227,
+      "content": "Where do you stay?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Gaurav Dey",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/GauravDey_W6npDQhowg"
+}

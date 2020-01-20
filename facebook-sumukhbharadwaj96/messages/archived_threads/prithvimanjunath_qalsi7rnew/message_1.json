@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Prithvi Manjunath"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1464361180155,
+      "content": "How much bro? ",
+      "type": "Generic"
+    }
+  ],
+  "title": "Prithvi Manjunath",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "archived_threads/PrithviManjunath_QaLsi7Rnew"
+}

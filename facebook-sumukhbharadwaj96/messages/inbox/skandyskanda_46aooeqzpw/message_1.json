@@ -1,0 +1,118 @@
+{
+  "participants": [
+    {
+      "name": "Skandy Skanda"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1476464215212,
+      "content": "ISE",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Skandy Skanda",
+      "timestamp_ms": 1476464207635,
+      "content": "Yav branch lo?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Skandy Skanda",
+      "timestamp_ms": 1476464201067,
+      "content": "Hmmm !",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1476464179214,
+      "content": "OK, moving on....",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Skandy Skanda",
+      "timestamp_ms": 1476464161789,
+      "content": "Helbeka guru ! Hws life maga",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1476464126983,
+      "content": "Good,\nYenadru maadu, sumnae manel kuthkolod bittu. Mathe?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Skandy Skanda",
+      "timestamp_ms": 1476461906669,
+      "content": "I took b.c.a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Skandy Skanda",
+      "timestamp_ms": 1476461901206,
+      "content": "Super maga",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1476461894787,
+      "content": "Huu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Skandy Skanda",
+      "timestamp_ms": 1476461886456,
+      "content": "Engg. Ah ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1476461851773,
+      "content": "AMC",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Skandy Skanda",
+      "timestamp_ms": 1476461822010,
+      "content": "U?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Skandy Skanda",
+      "timestamp_ms": 1476461820895,
+      "content": "Jain",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1476461779970,
+      "content": "Same, Yav college.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Skandy Skanda",
+      "timestamp_ms": 1476461717949,
+      "content": "Neenu?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Skandy Skanda",
+      "timestamp_ms": 1476461715866,
+      "content": "Hey super maga",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1476461702272,
+      "content": "Lo.....\nHego idya?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Skandy Skanda",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/SkandySkanda_46aOoeqzpw"
+}

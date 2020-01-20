@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Rj Nikhil"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rj Nikhil",
+      "timestamp_ms": 1492232719323,
+      "content": "Thanks macha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1492232619054,
+      "content": "Happy birthday guru...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1481982643431,
+      "content": "Hi macha.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rj Nikhil",
+      "timestamp_ms": 1481982155651,
+      "content": "Hey",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rj Nikhil",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/RjNikhil_bNGeQoyxnA"
+}

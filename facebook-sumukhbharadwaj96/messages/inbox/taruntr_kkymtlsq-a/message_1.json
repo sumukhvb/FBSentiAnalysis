@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Tarun TR"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tarun TR",
+      "timestamp_ms": 1475651007560,
+      "content": "kalla using mobile in class",
+      "type": "Generic"
+    }
+  ],
+  "title": "Tarun TR",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/TarunTR_KkymTlSq-A"
+}

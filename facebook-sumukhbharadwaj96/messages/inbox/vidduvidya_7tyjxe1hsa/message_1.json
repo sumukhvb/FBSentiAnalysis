@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "V\u00c3\u00aedd\u00c5\u00ab V\u00c3\u00afdy\u00c3\u00a4"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "V\u00c3\u00aedd\u00c5\u00ab V\u00c3\u00afdy\u00c3\u00a4",
+      "timestamp_ms": 1499747027273,
+      "content": "Tysm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1499745459730,
+      "content": "HBD",
+      "type": "Generic"
+    }
+  ],
+  "title": "V\u00c3\u00aedd\u00c5\u00ab V\u00c3\u00afdy\u00c3\u00a4",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/VidduVidya_7tyjXE1HsA"
+}

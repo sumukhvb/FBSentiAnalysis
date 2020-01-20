@@ -1,0 +1,76 @@
+{
+  "participants": [
+    {
+      "name": "Sreenivas Kandhade"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1463940513915,
+      "content": "Goodnight ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sreenivas Kandhade",
+      "timestamp_ms": 1463940476261,
+      "content": "Anyways, I gtg gn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1463940452680,
+      "content": "Okay ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sreenivas Kandhade",
+      "timestamp_ms": 1463940431523,
+      "content": "And I have no clue how long it'll take there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sreenivas Kandhade",
+      "timestamp_ms": 1463940422736,
+      "content": "Gotta go to Pauls",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sreenivas Kandhade",
+      "timestamp_ms": 1463940416757,
+      "content": "Nope",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1463940408543,
+      "content": "You wanna come near BNM? I'll meet you there tomorrow ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sreenivas Kandhade",
+      "timestamp_ms": 1463940391716,
+      "content": "We'll just meet 31st.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1463940370724,
+      "content": "Nope",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sreenivas Kandhade",
+      "timestamp_ms": 1463940339820,
+      "content": "Hey, Om isn't coming tomorrow, JSYK",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sreenivas Kandhade",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "archived_threads/SreenivasKandhade_If7tZZIlbw"
+}

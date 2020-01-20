@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Monica Anand"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Monica Anand",
+      "timestamp_ms": 1488893365136,
+      "content": "tq",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1488686145562,
+      "content": "Hbd madam.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1487519377091,
+      "content": "Say hi to your new Facebook friend, Monica.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Monica Anand",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/MonicaAnand_ihcuOYweJg"
+}

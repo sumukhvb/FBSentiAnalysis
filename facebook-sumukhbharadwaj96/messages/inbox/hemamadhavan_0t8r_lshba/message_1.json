@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Hema Madhavan"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1496076977417,
+      "content": "Say hi to your new Facebook friend, Hema.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Hema Madhavan",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/HemaMadhavan_0t8R_LSHbA"
+}

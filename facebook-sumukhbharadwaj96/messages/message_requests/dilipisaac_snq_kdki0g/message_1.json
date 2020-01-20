@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Dilip Isaac"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dilip Isaac",
+      "timestamp_ms": 1479304363345,
+      "content": "Hey,\nTony Das, one of India's best guitar players, who plays for some the biggest bands around, Peepal Tree and Bhoomi, is conducting a workshop on 'Guitar Patches & Tone Creation' on the 26th of November. \n\nThe workshop covers various topics on effects, delays, reverb, flangers, phasers, how to get the best sound out of your guitar, miking and more.\n\nBlock your seat today! \nFees : Rs 750\nContact us: 9535193436 / 7760456847\n\nhttps://www.facebook.com/events/109223212756128",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Dilip Isaac",
+      "timestamp_ms": 1479304351402,
+      "content": "Hey,\nTony Das, one of India's best guitar players, who plays for some the biggest bands around, Peepal Tree and Bhoomi, is conducting a workshop on 'Guitar Patches & Tone Creation' on the 26th of November. \n\nThe workshop covers various topics on effects, delays, reverb, flangers, phasers, how to get the best sound out of your guitar, miking and more.\n\nBlock your seat today! \nFees : Rs 750\nContact us: 9535193436 / 7760456847\n\nhttps://www.facebook.com/events/109223212756128",
+      "type": "Generic"
+    }
+  ],
+  "title": "Dilip Isaac",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/DilipIsaac_SNQ_kDKi0g"
+}

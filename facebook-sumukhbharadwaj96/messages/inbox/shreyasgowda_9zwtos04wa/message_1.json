@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Shreyas Gowda"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shreyas Gowda",
+      "timestamp_ms": 1507056320711,
+      "content": "Say hi to your new Facebook friend, Shreyas.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Shreyas Gowda",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ShreyasGowda_9ZWtoS04wA"
+}

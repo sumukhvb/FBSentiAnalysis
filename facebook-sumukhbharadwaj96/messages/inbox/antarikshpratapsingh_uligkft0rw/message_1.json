@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Antariksh Pratap Singh"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1545631066414,
+      "content": "Hi! I checked out your post on the Group for the requirement of a lead guitarist. Well I am a lead player, who's familiar with rock. Please Let me know when's the best time to talk to you",
+      "type": "Generic"
+    }
+  ],
+  "title": "Antariksh Pratap Singh",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/AntarikshPratapSingh_ULIgKfT0Rw"
+}

@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Kashish Jain"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kashish Jain",
+      "timestamp_ms": 1486180813455,
+      "content": "Thank u very much",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1486128703827,
+      "content": "HBD.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kashish Jain",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/KashishJain_ErcrUJrM0g"
+}

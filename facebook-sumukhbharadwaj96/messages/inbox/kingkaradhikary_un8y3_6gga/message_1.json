@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Kingkar Adhikary"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kingkar Adhikary",
+      "timestamp_ms": 1474823449905,
+      "content": "Say hi to your new Facebook friend, Kingkar.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kingkar Adhikary",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/KingkarAdhikary_Un8Y3_6GGA"
+}

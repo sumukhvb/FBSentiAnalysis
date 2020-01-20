@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Spoorthi Anand"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Spoorthi Anand",
+      "timestamp_ms": 1519969787528,
+      "content": "Ty\u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1519966602893,
+      "content": "Happy birthday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Spoorthi Anand",
+      "timestamp_ms": 1488472047559,
+      "content": "Ty.. \u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1488471991068,
+      "content": "HBD.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Spoorthi Anand",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/SpoorthiAnand_2AuACUTMFQ"
+}

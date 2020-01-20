@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Madhu Mohan"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Madhu Mohan",
+      "timestamp_ms": 1476592533887,
+      "content": "Tqs macha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1476590640736,
+      "content": "Happy birthday guru.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Madhu Mohan",
+      "timestamp_ms": 1473867585778,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1473867570318,
+      "content": "Gothilla",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Madhu Mohan",
+      "timestamp_ms": 1473861097979,
+      "content": "macha nale clg aYTHENO",
+      "type": "Generic"
+    }
+  ],
+  "title": "Madhu Mohan",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/MadhuMohan_NNm_LcwAhQ"
+}

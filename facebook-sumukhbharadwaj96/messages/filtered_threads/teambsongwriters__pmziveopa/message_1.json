@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "Sumukh Bharadwaj"
+    },
+    {
+      "name": "Nwaraj Limbu"
+    },
+    {
+      "name": "Birbal Sinha"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jason X Vanchhawng",
+      "timestamp_ms": 1529294045722,
+      "content": "Jason X Vanchhawng left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Jason X Vanchhawng"
+        }
+      ]
+    },
+    {
+      "sender_name": "Nwaraj Limbu",
+      "timestamp_ms": 1512488149168,
+      "content": "Please do Subscribe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nwaraj Limbu",
+      "timestamp_ms": 1512488103190,
+      "content": "https://youtu.be/7qpMfKeHMj4",
+      "share": {
+        "link": "https://www.youtube.com/watch?v=7qpMfKeHMj4"
+      },
+      "type": "Share"
+    }
+  ],
+  "title": "Team B: Song Writers",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "filtered_threads/TeamBSongWriters__pmZiveOpA"
+}

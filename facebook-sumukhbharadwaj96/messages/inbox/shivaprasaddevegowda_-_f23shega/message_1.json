@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Shivaprasad Devegowda"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shivaprasad Devegowda",
+      "timestamp_ms": 1508312029392,
+      "content": "Say hi to your new Facebook friend, Shivaprasad.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Shivaprasad Devegowda",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ShivaprasadDevegowda_-_F23ShEGA"
+}

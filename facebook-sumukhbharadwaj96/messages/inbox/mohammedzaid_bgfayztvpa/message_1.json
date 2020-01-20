@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Mohammed Zaid"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mohammed Zaid",
+      "timestamp_ms": 1470369713706,
+      "content": "tys soo much sumukh :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1470367696624,
+      "content": "HBD Bro!!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Mohammed Zaid",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/MohammedZaid_BgfAYZtvpA"
+}

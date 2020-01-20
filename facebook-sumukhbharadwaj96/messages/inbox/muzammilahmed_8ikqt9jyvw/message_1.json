@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Muzammil Ahmed"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1487178279199,
+      "content": "As usual.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Muzammil Ahmed",
+      "timestamp_ms": 1487177717965,
+      "content": "I am good bro hw r u..",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1487177529941,
+      "content": "How are you da?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1487177513790,
+      "content": "Peace.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Muzammil Ahmed",
+      "timestamp_ms": 1487177499863,
+      "content": "It's OK bro..",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1487177481838,
+      "content": "Oh okay....",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Muzammil Ahmed",
+      "timestamp_ms": 1487177446529,
+      "content": "He is my bro..",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1487177416568,
+      "content": "That's one crazy ass transformation man!!!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Muzammil Ahmed",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/MuzammilAhmed_8IKqT9jYVw"
+}

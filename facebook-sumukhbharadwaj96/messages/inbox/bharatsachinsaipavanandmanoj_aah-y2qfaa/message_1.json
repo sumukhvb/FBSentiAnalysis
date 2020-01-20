@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Sumukh Bharadwaj"
+    },
+    {
+      "name": "Bharat Patil"
+    },
+    {
+      "name": "Sachin Sachi"
+    },
+    {
+      "name": "Sai Pavan Pavan Kumar"
+    },
+    {
+      "name": "Manoj Manu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sachin Sachi",
+      "timestamp_ms": 1512376042529,
+      "content": "Sai Pavan Pavan Kumar Manoj Manu Sumukh Bharadwaj Bharat Patil\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    }
+  ],
+  "title": "Bharat, Sachin, Sai Pavan and Manoj",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/BharatSachinSaiPavanandManoj_AAH-y2qfaA"
+}

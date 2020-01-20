@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Harsha Gowda"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Harsha Gowda",
+      "timestamp_ms": 1541645952995,
+      "content": "https://m.facebook.com/story.php?story_fbid=877361045795703&id=837653236433151",
+      "type": "Generic"
+    }
+  ],
+  "title": "Harsha Gowda",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/HarshaGowda_-msv5llRjw"
+}

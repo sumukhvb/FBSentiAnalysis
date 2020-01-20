@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Rashmi Priya"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rashmi Priya",
+      "timestamp_ms": 1477656046178,
+      "content": "Say hi to your new Facebook friend, Rashmi.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rashmi Priya",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/RashmiPriya_CO2Am90xvA"
+}

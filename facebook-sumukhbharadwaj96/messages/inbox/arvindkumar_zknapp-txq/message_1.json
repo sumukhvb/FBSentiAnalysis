@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Arvind Kumar"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Arvind Kumar",
+      "timestamp_ms": 1490365495045,
+      "content": "Thanks bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1490364268911,
+      "content": "Happy birthday.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1474454256285,
+      "content": "7899426621",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Arvind Kumar",
+      "timestamp_ms": 1474439904025,
+      "content": "Send me your mobile number",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1474226757401,
+      "content": "Can you send me camera pics?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Arvind Kumar",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ArvindKumar_zkNaPp-tXQ"
+}

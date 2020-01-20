@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Mahima Shree"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1512896957010,
+      "content": "\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0085",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mahima Shree",
+      "timestamp_ms": 1512896111236,
+      "content": "\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mahima Shree",
+      "timestamp_ms": 1512896105226,
+      "content": "Crazzyyy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mahima Shree",
+      "timestamp_ms": 1512896102867,
+      "content": "I saw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mahima Shree",
+      "timestamp_ms": 1512896098604,
+      "content": "He he",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1512894605023,
+      "photos": [
+        {
+          "uri": "messages/inbox/MahimaShree_YKkMpODb_Q/photos/25188206_1504226859694423_1066871600_n_1504226859694423.jpg",
+          "creation_timestamp": 1512894604
+        }
+      ],
+      "type": "Generic"
+    }
+  ],
+  "title": "Mahima Shree",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/MahimaShree_YKkMpODb_Q"
+}

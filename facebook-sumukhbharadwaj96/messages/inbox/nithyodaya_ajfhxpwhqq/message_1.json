@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Nithyo Daya"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1484126663050,
+      "content": "Mane.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nithyo Daya",
+      "timestamp_ms": 1484114975436,
+      "content": "hey bro wr r u ra",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1476248452965,
+      "content": "Amc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nithyo Daya",
+      "timestamp_ms": 1476247680556,
+      "content": "hi dude wc clg",
+      "type": "Generic"
+    }
+  ],
+  "title": "Nithyo Daya",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/NithyoDaya_AJFhxPwHQQ"
+}

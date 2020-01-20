@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Siddharth Naidu"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1479448720155,
+      "content": "Say hi to your new Facebook friend, Siddharth.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Siddharth Naidu",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/SiddharthNaidu_N3wbyOunwA"
+}

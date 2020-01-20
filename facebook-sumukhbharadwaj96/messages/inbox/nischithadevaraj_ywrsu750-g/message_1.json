@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Nischitha Devaraj"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nischitha Devaraj",
+      "timestamp_ms": 1497600291684,
+      "content": "Say hi to your new Facebook friend, Nischitha.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Nischitha Devaraj",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/NischithaDevaraj_Ywrsu750-g"
+}

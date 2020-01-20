@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Shankar Balakrishna"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1502417495157,
+      "content": "Say hi to your new Facebook friend, Shankar.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Shankar Balakrishna",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ShankarBalakrishna_GLTZGx99eA"
+}

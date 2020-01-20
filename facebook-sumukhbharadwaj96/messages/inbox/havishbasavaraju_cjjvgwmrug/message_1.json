@@ -1,0 +1,100 @@
+{
+  "participants": [
+    {
+      "name": "Havish Basavaraju"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Havish Basavaraju",
+      "timestamp_ms": 1472105888527,
+      "content": "Thanks man \u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1472095143895,
+      "content": "HBD saar!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1468605089851,
+      "content": "Gothilla, results on Monday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Havish Basavaraju",
+      "timestamp_ms": 1468605072608,
+      "content": "Which college?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1468605069774,
+      "content": "Why did you leave PJC?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1468605052343,
+      "content": "Cs. I've applied for second round.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Havish Basavaraju",
+      "timestamp_ms": 1468605026868,
+      "content": "Wat did u take up?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Havish Basavaraju",
+      "timestamp_ms": 1468605018920,
+      "content": "Wat about u ??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Havish Basavaraju",
+      "timestamp_ms": 1468605012958,
+      "content": "Good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1468605005504,
+      "content": "How's the work?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Havish Basavaraju",
+      "timestamp_ms": 1468604987341,
+      "content": "M fine ..m in BASE now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1468604967319,
+      "content": "Heg idira, elidhira?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Havish Basavaraju",
+      "timestamp_ms": 1468604945670,
+      "content": "Namaste",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1468604909288,
+      "content": "Namskara sir",
+      "type": "Generic"
+    }
+  ],
+  "title": "Havish Basavaraju",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/HavishBasavaraju_cJjVGwmrug"
+}

@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Vivek Chintamani"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1477805396651,
+      "content": "Alright.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vivek Chintamani",
+      "timestamp_ms": 1477805381120,
+      "content": "No, thank you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1477805372869,
+      "content": "I would prefer 15k,",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vivek Chintamani",
+      "timestamp_ms": 1477805314830,
+      "content": "Whitefield",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1477805312336,
+      "content": "Yep",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1477805304265,
+      "content": "Where are you staying?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vivek Chintamani",
+      "timestamp_ms": 1477805270377,
+      "content": "Interested?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Vivek Chintamani",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/VivekChintamani_bc1PcBn-fw"
+}

@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Bobba Nikhil"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bobba Nikhil",
+      "timestamp_ms": 1469688606110,
+      "content": "Thx bruh!\u00f0\u009f\u0098\u0081",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1469638349130,
+      "content": "HBD man.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bobba Nikhil",
+      "timestamp_ms": 1466425081047,
+      "content": "Ohh ok thx",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bobba Nikhil",
+      "timestamp_ms": 1466425063789,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1466399580545,
+      "content": "You asked to inbox number right ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bobba Nikhil",
+      "timestamp_ms": 1466387389371,
+      "content": "What's this bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1466363832989,
+      "content": "7899426621",
+      "type": "Generic"
+    }
+  ],
+  "title": "Bobba Nikhil",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/BobbaNikhil_QFsxyc-l5Q"
+}

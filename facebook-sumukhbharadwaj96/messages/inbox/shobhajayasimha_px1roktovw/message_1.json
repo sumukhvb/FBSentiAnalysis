@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Shobha Jayasimha"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shobha Jayasimha",
+      "timestamp_ms": 1499621352843,
+      "content": "Hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shobha Jayasimha",
+      "timestamp_ms": 1499621347234,
+      "content": "Shobha is waving at you!",
+      "type": "Share"
+    }
+  ],
+  "title": "Shobha Jayasimha",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ShobhaJayasimha_pX1ROKTOvw"
+}

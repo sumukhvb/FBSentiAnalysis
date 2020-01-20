@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Prashant Koparde"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1507873224317,
+      "content": "Say hi to your new Facebook friend, Prashant.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Prashant Koparde",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/PrashantKoparde_1yuwunOR8Q"
+}

@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Adarsh SN"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1466790746779,
+      "content": "did you apply?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Adarsh SN",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/AdarshSN_0C0B64YKtQ"
+}

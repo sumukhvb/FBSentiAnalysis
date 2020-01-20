@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Sujan Gowda"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sujan Gowda",
+      "timestamp_ms": 1476983203276,
+      "content": "Tysm Lo \u00f0\u009f\u0098\u0098",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1476953309132,
+      "content": "Happy birthday guru.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sujan Gowda",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/SujanGowda_MCVie7MpcA"
+}

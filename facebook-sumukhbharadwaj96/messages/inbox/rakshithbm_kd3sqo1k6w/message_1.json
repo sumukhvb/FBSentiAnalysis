@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Rakshith Bm"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1523885287392,
+      "content": "Say hi to your new Facebook friend, Rakshith.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rakshith Bm",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/RakshithBm_kd3Sqo1K6w"
+}

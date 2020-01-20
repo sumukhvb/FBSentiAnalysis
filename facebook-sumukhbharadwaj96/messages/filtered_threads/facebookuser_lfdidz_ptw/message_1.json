@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Facebook User"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1419941125387,
+      "content": "care for a 2005 Plymouth Barracuda Chrysler i want to trade it",
+      "type": "Generic"
+    }
+  ],
+  "title": "Facebook User",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "filtered_threads/FacebookUser_LFDIdZ_ptw"
+}

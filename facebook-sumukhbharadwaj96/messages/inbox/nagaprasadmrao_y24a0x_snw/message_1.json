@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Naga Prasad M Rao"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Naga Prasad M Rao",
+      "timestamp_ms": 1503849782028,
+      "content": "Say hi to your new Facebook friend, Naga.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Naga Prasad M Rao",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/NagaPrasadMRao_y24A0x_Snw"
+}

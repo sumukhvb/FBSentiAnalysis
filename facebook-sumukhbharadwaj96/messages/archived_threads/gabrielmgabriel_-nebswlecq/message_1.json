@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Gabriel M Gabriel"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1463809761098,
+      "content": "Happy birthday sir.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Gabriel M Gabriel",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "archived_threads/GabrielMGabriel_-NEbSwLecQ"
+}

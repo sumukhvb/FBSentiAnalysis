@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Fazal Hussain"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Fazal Hussain",
+      "timestamp_ms": 1481198393244,
+      "content": "Tq bro \u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1481171595253,
+      "content": "Happy birthday to both of you guys!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Fazal Hussain",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/FazalHussain_FsDAmz1OWw"
+}

@@ -1,0 +1,190 @@
+{
+  "participants": [
+    {
+      "name": "Manasi Kj"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1486805983937,
+      "content": "Hey! Happy birthday.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1465485727578,
+      "content": "Okay then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manasi Kj",
+      "timestamp_ms": 1465485704126,
+      "content": "will do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1465485697798,
+      "content": "Come on July ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1465485688016,
+      "content": "Okay ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manasi Kj",
+      "timestamp_ms": 1465485676905,
+      "content": "i wasn't in town",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1465485536037,
+      "content": "It was fun",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1465485450995,
+      "content": "You should've come ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manasi Kj",
+      "timestamp_ms": 1465485429862,
+      "content": "crazziee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1465485409479,
+      "content": "Next there will be twisted metal fest on July somewhere. ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manasi Kj",
+      "timestamp_ms": 1465485374242,
+      "content": "yeah!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1465485364186,
+      "content": "Crazy place ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manasi Kj",
+      "timestamp_ms": 1465485315991,
+      "content": "ohh nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1465485286117,
+      "content": "My teacher's show ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1465485178971,
+      "content": "I went to indigoLive last Sunday ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1465485159203,
+      "content": "Yeah vu? ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manasi Kj",
+      "timestamp_ms": 1465485118791,
+      "content": "ah duno man i performed the week before last at indigo live",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1465485066358,
+      "content": "Singing ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manasi Kj",
+      "timestamp_ms": 1465485024344,
+      "content": "singing or poetry?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manasi Kj",
+      "timestamp_ms": 1465485017858,
+      "content": "which shows?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1465484908053,
+      "content": "Dude when will your shows be? ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1465484853528,
+      "content": "Its always okay..... for everyone ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1465484833823,
+      "content": "Okay ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manasi Kj",
+      "timestamp_ms": 1465484816046,
+      "content": "hows life?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manasi Kj",
+      "timestamp_ms": 1465484812766,
+      "content": "good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1465484777855,
+      "content": "Fine you? ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manasi Kj",
+      "timestamp_ms": 1465484765394,
+      "content": "how're you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manasi Kj",
+      "timestamp_ms": 1465484759152,
+      "content": "heyo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1465484750986,
+      "content": "Hey",
+      "type": "Generic"
+    }
+  ],
+  "title": "Manasi Kj",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ManasiKj_ESVurSPMpA"
+}

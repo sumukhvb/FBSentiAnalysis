@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Vivek Vincent Jr."
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vivek Vincent Jr.",
+      "timestamp_ms": 1498818594449,
+      "content": "DM me on whatsapp. i lost all my contacts",
+      "type": "Generic"
+    }
+  ],
+  "title": "Vivek Vincent Jr.",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/VivekVincentJr_VEz_LIXeag"
+}

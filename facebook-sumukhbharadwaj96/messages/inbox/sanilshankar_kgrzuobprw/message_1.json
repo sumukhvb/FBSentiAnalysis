@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Sanil Shankar"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sanil Shankar",
+      "timestamp_ms": 1528196234085,
+      "content": "Pls help me promote this event and ask to support The Souldiers by mentioning our name",
+      "share": {
+        "link": "https://www.instamojo.com/ebenjohnson/aathma-live-fandom-culturedby-benandflow-bnf/"
+      },
+      "type": "Share"
+    }
+  ],
+  "title": "Sanil Shankar",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/SanilShankar_kGrZuOBPRw"
+}

@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Richie E"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1469979891056,
+      "content": "Amc Macha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Richie E",
+      "timestamp_ms": 1469975439003,
+      "content": "Which Coll bro",
+      "type": "Generic"
+    }
+  ],
+  "title": "Richie E",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/RichieE_GFcyylEjLA"
+}

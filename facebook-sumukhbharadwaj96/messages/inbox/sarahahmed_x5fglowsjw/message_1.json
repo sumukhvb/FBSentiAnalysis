@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Sarah Ahmed"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1476358840967,
+      "content": "How old is your sister?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarah Ahmed",
+      "timestamp_ms": 1476358812167,
+      "content": "Thanx",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1476328650940,
+      "content": "Happened birthday girl!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1466449001625,
+      "content": "What's your rank? ",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sarah Ahmed",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/SarahAhmed_X5FglowsJw"
+}

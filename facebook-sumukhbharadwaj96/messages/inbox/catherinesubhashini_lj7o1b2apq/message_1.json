@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Catherine Subhashini"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1470156161599,
+      "content": "Which college?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Catherine Subhashini",
+      "timestamp_ms": 1467994298732,
+      "content": "No man I have an exam...my mom might",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467992460420,
+      "content": "you going to the funeral?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Catherine Subhashini",
+      "timestamp_ms": 1467992417962,
+      "content": "RIP",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467992348107,
+      "content": "RIP Gabriel Sir",
+      "type": "Generic"
+    }
+  ],
+  "title": "Catherine Subhashini",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/CatherineSubhashini_lj7o1B2aPQ"
+}

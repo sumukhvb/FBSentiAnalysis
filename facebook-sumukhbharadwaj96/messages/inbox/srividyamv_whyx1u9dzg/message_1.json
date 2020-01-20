@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Srividya Mv"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Srividya Mv",
+      "timestamp_ms": 1495089774345,
+      "content": "Say hi to your new Facebook friend, Srividya.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Srividya Mv",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/SrividyaMv_WhyX1u9dzg"
+}

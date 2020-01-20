@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Gowri Ramesh"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1520438572004,
+      "content": "I'm well and fine Aunty. Studying B.E in AMC(Information science dept)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gowri Ramesh",
+      "timestamp_ms": 1520424270992,
+      "content": "How are you, what are you studying now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gowri Ramesh",
+      "timestamp_ms": 1520424249958,
+      "content": "I am good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1520420657167,
+      "content": "How are you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gowri Ramesh",
+      "timestamp_ms": 1520379402161,
+      "content": "Thanks sumukh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1520315026575,
+      "content": "Happy birthday Aunty...",
+      "type": "Generic"
+    }
+  ],
+  "title": "Gowri Ramesh",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/GowriRamesh_4oXi0hYbWg"
+}

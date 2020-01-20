@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Rintu Thomas"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rintu Thomas",
+      "timestamp_ms": 1538416896467,
+      "content": "Say hi to your new Facebook friend, Rintu.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rintu Thomas",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/RintuThomas_KB_QgAgKkA"
+}

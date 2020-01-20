@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Eshwar Ab"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Eshwar Ab",
+      "timestamp_ms": 1509805823926,
+      "content": "Say hi to your new Facebook friend, Eshwar.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Eshwar Ab",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/EshwarAb_ZDEWug4jRA"
+}

@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Krishna Deepak"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1522332411785,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Krishna Deepak",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/KrishnaDeepak_nYVZLtWl8g"
+}

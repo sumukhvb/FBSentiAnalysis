@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Raghvendra Singh"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Raghvendra Singh",
+      "timestamp_ms": 1553584405272,
+      "content": "Guys anyone want to take admission in any college all over India engineering or medical or some type of job, contact at this no 6361564582 or message me once",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raghvendra Singh",
+      "timestamp_ms": 1472388763547,
+      "content": "Bro send karo what's up par mechanical assighnment",
+      "type": "Generic"
+    }
+  ],
+  "title": "Raghvendra Singh",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/RaghvendraSingh_wcQbTDGxtQ"
+}

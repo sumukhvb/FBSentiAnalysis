@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Bhuvan Bhasin"
+    },
+    {
+      "name": "Shivansh Naithani"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    },
+    {
+      "name": "Nwaraj Limbu"
+    },
+    {
+      "name": "Himanshu Sarma C Bennington"
+    },
+    {
+      "name": "Nirzor Tasdid"
+    },
+    {
+      "name": "Birbal Sinha"
+    },
+    {
+      "name": "Thumaitha KhngZrkpm Ningthwza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nwaraj Limbu",
+      "timestamp_ms": 1512488150060,
+      "content": "Please do Subscribe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nwaraj Limbu",
+      "timestamp_ms": 1512488101046,
+      "content": "https://youtu.be/7qpMfKeHMj4",
+      "share": {
+        "link": "https://www.youtube.com/watch?v=7qpMfKeHMj4"
+      },
+      "type": "Share"
+    }
+  ],
+  "title": "Stans Inc.",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "filtered_threads/StansInc_ay7yT5Kpbg"
+}

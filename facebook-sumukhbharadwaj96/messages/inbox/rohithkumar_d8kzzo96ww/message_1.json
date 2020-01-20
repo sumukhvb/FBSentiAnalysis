@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Rohith Kumar"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rohith Kumar",
+      "timestamp_ms": 1473612001353,
+      "content": "Hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rohith Kumar",
+      "timestamp_ms": 1473088405497,
+      "content": "Say hi to your new Facebook friend, Rohith.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rohith Kumar",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/RohithKumar_d8KzzO96Ww"
+}

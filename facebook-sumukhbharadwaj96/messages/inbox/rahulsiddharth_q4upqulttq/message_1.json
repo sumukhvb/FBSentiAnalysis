@@ -1,0 +1,264 @@
+{
+  "participants": [
+    {
+      "name": "Rahul Siddharth"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rahul Siddharth",
+      "timestamp_ms": 1483170843261,
+      "content": "thanks man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1483071699237,
+      "content": "HBD man!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1470296588067,
+      "content": "thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1470296583938,
+      "content": "gotta",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rahul Siddharth",
+      "timestamp_ms": 1470296573479,
+      "content": "Nail it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rahul Siddharth",
+      "timestamp_ms": 1470296569588,
+      "content": "Sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rahul Siddharth",
+      "timestamp_ms": 1470296567392,
+      "content": "All the best",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rahul Siddharth",
+      "timestamp_ms": 1470296559741,
+      "content": "Practice bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rahul Siddharth",
+      "timestamp_ms": 1470296554287,
+      "content": "Haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1470296545194,
+      "content": "wish me luck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1470296490113,
+      "content": "i dont know how will i manage the second riff?!?!?!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rahul Siddharth",
+      "timestamp_ms": 1470296457862,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rahul Siddharth",
+      "timestamp_ms": 1470296455426,
+      "content": "Awesome man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1470296424881,
+      "content": "nothing else matters and postmortem xD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rahul Siddharth",
+      "timestamp_ms": 1470296357415,
+      "content": "What are you performing?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rahul Siddharth",
+      "timestamp_ms": 1470296341617,
+      "content": "Cool man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1470296326950,
+      "content": "at taal",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1470296321151,
+      "content": "month end we have a performance",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1470296309980,
+      "content": "its well",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rahul Siddharth",
+      "timestamp_ms": 1470296274457,
+      "content": "How's the music going?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rahul Siddharth",
+      "timestamp_ms": 1470296260788,
+      "content": "\u00f0\u009f\u0098\u0086",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rahul Siddharth",
+      "timestamp_ms": 1470296243592,
+      "content": "Full punctual and all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1470296234954,
+      "content": "im talking to you from there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1470296229525,
+      "content": "i came early so i was in the lab/library",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1470296214846,
+      "content": "thats on 2pm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1470296185102,
+      "content": "today is orentation",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rahul Siddharth",
+      "timestamp_ms": 1470296184318,
+      "content": "Vacations eh?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rahul Siddharth",
+      "timestamp_ms": 1470296179241,
+      "content": "Oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1470296173440,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rahul Siddharth",
+      "timestamp_ms": 1470296168557,
+      "content": "No work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rahul Siddharth",
+      "timestamp_ms": 1470296165918,
+      "content": "Nope",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rahul Siddharth",
+      "timestamp_ms": 1470296158792,
+      "content": "But you were already in college right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1470296141218,
+      "content": "work?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rahul Siddharth",
+      "timestamp_ms": 1470296127550,
+      "content": "Just woke up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1470296118348,
+      "content": "u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1470296110309,
+      "content": "i was just chilling in the lab",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1470296099819,
+      "content": "todays my college first day",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rahul Siddharth",
+      "timestamp_ms": 1470296069545,
+      "content": "What's up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rahul Siddharth",
+      "timestamp_ms": 1470296065924,
+      "content": "Hey",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1470296055263,
+      "content": "hey man!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467222398916,
+      "content": "Hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rahul Siddharth",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/RahulSiddharth_Q4upqultTQ"
+}

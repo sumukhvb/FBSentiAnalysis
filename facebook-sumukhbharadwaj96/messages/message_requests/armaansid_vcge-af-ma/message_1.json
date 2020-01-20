@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Armaan Sid"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Armaan Sid",
+      "timestamp_ms": 1547242709597,
+      "content": "Hello\r\n  Today I plan for the jam, guitarist missing.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Armaan Sid",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/ArmaanSid_vcge-af-mA"
+}

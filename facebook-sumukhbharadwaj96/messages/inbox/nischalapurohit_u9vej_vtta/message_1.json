@@ -1,0 +1,250 @@
+{
+  "participants": [
+    {
+      "name": "Nischala Purohit"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nischala Purohit",
+      "timestamp_ms": 1470593321361,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1470592651184,
+      "content": "WC",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1470592640016,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nischala Purohit",
+      "timestamp_ms": 1470592304747,
+      "content": "Sty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1470591919765,
+      "content": "HFD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nischala Purohit",
+      "timestamp_ms": 1470591897661,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1470591893901,
+      "content": "Ise",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nischala Purohit",
+      "timestamp_ms": 1470591883035,
+      "content": "Cool. Which branch?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1470591867944,
+      "content": "Amc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nischala Purohit",
+      "timestamp_ms": 1470591801395,
+      "content": "Good. Where did you join?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1470591776732,
+      "content": "How's college?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1470591763258,
+      "content": "Hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nischala Purohit",
+      "timestamp_ms": 1467651704131,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467645320088,
+      "content": "yep",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nischala Purohit",
+      "timestamp_ms": 1467639459057,
+      "content": "Hmmm so are you planning for second round cet counseling?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467638265357,
+      "content": "Sorry. Got confused. For me jss is too far. ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nischala Purohit",
+      "timestamp_ms": 1467618428904,
+      "content": "My university is near kudlugate but jss is in kengeri",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467613068132,
+      "content": "I think somewhere near kudlugatta",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nischala Purohit",
+      "timestamp_ms": 1467577063675,
+      "content": "Where jss?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467576533285,
+      "content": "Are 2L it, or you have to pay donation? ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nischala Purohit",
+      "timestamp_ms": 1467573086349,
+      "content": "Try jss you'll get",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nischala Purohit",
+      "timestamp_ms": 1467572709960,
+      "content": "I don't know. But my dsat fees was 2l",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467572666678,
+      "content": "What's management fee for DSU? ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467572648008,
+      "content": "Hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467302060164,
+      "content": "Nope",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nischala Purohit",
+      "timestamp_ms": 1467301823789,
+      "content": "You got no college?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467301575160,
+      "content": "Nothing dude ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nischala Purohit",
+      "timestamp_ms": 1467301527524,
+      "content": "Oh :/ mock allotment?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467300579520,
+      "content": "51k\u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467298428714,
+      "content": "Less ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nischala Purohit",
+      "timestamp_ms": 1467298413726,
+      "content": "What was your cet rank?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nischala Purohit",
+      "timestamp_ms": 1467298403958,
+      "content": "Computer science",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467298379996,
+      "content": "Which course? ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467298366566,
+      "content": "I don't know, tomorrow I gotta check. ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nischala Purohit",
+      "timestamp_ms": 1467298334573,
+      "content": "You?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nischala Purohit",
+      "timestamp_ms": 1467298330611,
+      "content": "Dayanand sagat university.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467228140946,
+      "content": "which college/",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467228131158,
+      "content": "hoy",
+      "type": "Generic"
+    }
+  ],
+  "title": "Nischala Purohit",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/NischalaPurohit_U9Vej_VTtA"
+}

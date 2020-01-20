@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Nikhil Shavi"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1481739080174,
+      "content": "Namskara",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nikhil Shavi",
+      "timestamp_ms": 1478584130214,
+      "content": "Thank u maga\u00f0\u009f\u0098\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1478580752235,
+      "content": "Happy birthday guru.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1465220552245,
+      "content": "Say hi to your new Facebook friend, Nikhil.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Nikhil Shavi",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/NikhilShavi_2DU2ub74Iw"
+}

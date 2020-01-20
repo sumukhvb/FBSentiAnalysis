@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Lekhashri Achari"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lekhashri Achari",
+      "timestamp_ms": 1492421355618,
+      "content": "Lekhashri Achari removed you from the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Sumukh Bharadwaj"
+        }
+      ]
+    },
+    {
+      "sender_name": "Lekhashri Achari",
+      "timestamp_ms": 1492421351280,
+      "content": "Lekhashri Achari removed Tarunya Ambalavanan from the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Tarunya Ambalavanan"
+        }
+      ]
+    },
+    {
+      "sender_name": "Lekhashri Achari",
+      "timestamp_ms": 1492421346441,
+      "content": "Lekhashri Achari removed Balaji Kasiraj from the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Balaji Kasiraj"
+        }
+      ]
+    },
+    {
+      "sender_name": "Lekhashri Achari",
+      "timestamp_ms": 1492421341633,
+      "content": "Lekhashri Achari removed Adarsh SN from the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Adarsh SN"
+        }
+      ]
+    },
+    {
+      "sender_name": "Lekhashri Achari",
+      "timestamp_ms": 1492421282051,
+      "content": "why do I find this so funny?\u00f0\u009f\u0098\u0082",
+      "share": {
+        "link": "https://www.facebook.com/under25official/photos/a.520263628087704/1246901452090581/?type=3"
+      },
+      "type": "Share"
+    }
+  ],
+  "title": "Lekhashri Achari",
+  "is_still_participant": false,
+  "thread_type": "RegularGroup",
+  "thread_path": "archived_threads/LekhashriAchari_hOdRDdEDmg"
+}

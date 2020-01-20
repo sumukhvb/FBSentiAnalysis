@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Mohammed Hafeez"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1478523980878,
+      "content": "Thanks bro.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mohammed Hafeez",
+      "timestamp_ms": 1478523960055,
+      "content": "Happy birthday bro !!! \u00f0\u009f\u008e\u00b8 rock on !",
+      "type": "Generic"
+    }
+  ],
+  "title": "Mohammed Hafeez",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/MohammedHafeez_ffjd141TfQ"
+}

@@ -1,0 +1,88 @@
+{
+  "participants": [
+    {
+      "name": "Rajyash Jain"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rajyash Jain",
+      "timestamp_ms": 1467646710358,
+      "content": "Anytym :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467646698718,
+      "content": "okay thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rajyash Jain",
+      "timestamp_ms": 1467646690987,
+      "content": "I don't know anything apart from this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rajyash Jain",
+      "timestamp_ms": 1467646678107,
+      "content": "It's too costly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467646663420,
+      "content": "okay do you have any idea about jain university fees/",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467646639136,
+      "content": "oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rajyash Jain",
+      "timestamp_ms": 1467646631688,
+      "content": "And i am doing b.sc in animation",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rajyash Jain",
+      "timestamp_ms": 1467646621424,
+      "content": "I was in commerce",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467646604302,
+      "content": "cet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rajyash Jain",
+      "timestamp_ms": 1467646578996,
+      "content": "Where ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467646417038,
+      "content": "did you apply for second round?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467646408290,
+      "content": "hi bro",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rajyash Jain",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/RajyashJain_a0dI38NdeA"
+}

@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Sudhanva Holla"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1474823013505,
+      "content": "OK OK",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sudhanva Holla",
+      "timestamp_ms": 1474822998308,
+      "content": "Yest it got over",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sudhanva Holla",
+      "timestamp_ms": 1474822994937,
+      "content": "It's over da",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1474822984768,
+      "content": "When is your zephyr?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sudhanva Holla",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/SudhanvaHolla_2S0ydL4Lsg"
+}

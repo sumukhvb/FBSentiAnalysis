@@ -1,0 +1,778 @@
+{
+  "participants": [
+    {
+      "name": "Bhoomika Mahesh"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1474650213824,
+      "content": "Tata",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1474650202293,
+      "content": "bye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1474650200385,
+      "content": "okay got to go",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1474650194973,
+      "content": "yea got to",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1474650193080,
+      "content": "Refer baavikatte",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1474650183673,
+      "content": "Den u can write without studying also",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1474650168112,
+      "content": "B thorogh in basics fr civil",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1474650135945,
+      "content": "this internals i got less in civil",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1474650104072,
+      "content": "pattern and all is same for us. i'm having difficulty in chapters. civil and math to name a few",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1474650060181,
+      "content": "If lab is der den 10",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1474650052360,
+      "content": "In some to 10",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1474650043949,
+      "content": "In some subjects dey reduce to 20",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1474650030139,
+      "content": "V ryt fr 40",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1474650013226,
+      "content": "how much marks?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1474649991416,
+      "content": "1 hr 15 mins",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1474649977241,
+      "content": "yea. how much is your time limit in internals?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1474649948852,
+      "content": "Dey c neatness n all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1474649940554,
+      "content": "And diagrams tk tym",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1474649932610,
+      "content": "In mech it ll b lengthy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1474649923068,
+      "content": "Yea so mny ppl got easily top grades in physics",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1474649887892,
+      "content": "mech is easy. story writing only xD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1474649857013,
+      "content": "something about black bodies, laser, shockwaves, crystal systems, and quantum mechanics",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1474649806683,
+      "content": "Physics ws d easiest fr us donno abt wat chaps u hv",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1474649773421,
+      "content": "Yea elec n civil hard to score",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1474649713151,
+      "content": "except mechanical, all are problematic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1474649675297,
+      "content": "yea that one too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1474649675109,
+      "content": "Dat nly numericals subject",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1474649663714,
+      "content": "U dont hv civil?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1474649657409,
+      "content": "and stuff?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1474649648085,
+      "content": "5 modules.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1474649639310,
+      "content": "instead of c Prog. we have physics lab. rest are all same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1474649604604,
+      "content": "And workshop as lab",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1474649594407,
+      "content": "Personality development",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1474649584485,
+      "content": "V hd mechanics physics electronics maths c programming",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1474649540619,
+      "content": "??? What did you have for phy cycle?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1474649509723,
+      "content": "N also in each cycle",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1474649491422,
+      "content": "In higher sems",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1474649486134,
+      "content": "Infact subjects r nly diff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1474649474948,
+      "content": "Some topics same some topics diff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1474649428207,
+      "content": "no same chapters?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1474649411370,
+      "content": "Ours n urs ll b diff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1474649403850,
+      "content": "Haa k den vtu coll naa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1474649362028,
+      "content": "ISE",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1474649357182,
+      "content": "I got in AMC",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1474649351591,
+      "content": "N branch?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1474649348314,
+      "content": "Wich coll?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1474649331585,
+      "content": "yep",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1474649325413,
+      "content": "Oh nw u r in phy cycle?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1474649291626,
+      "content": "asked. I wanna know about chem cycle and stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1474649267260,
+      "content": "Y",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1474649263668,
+      "content": "Dats wer i m supposed to b\u00f0\u009f\u0098\u0085",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1474649245131,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1474649165431,
+      "content": "you still in 2nd year na?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1474649123803,
+      "content": "Next sem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1474649093364,
+      "content": "no cultural stuff?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1474649073197,
+      "content": "Superb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1474649039441,
+      "content": "*Going",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1474649029497,
+      "content": "sup. hows phase shift goimg on?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1474649001143,
+      "content": "Hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1474648912754,
+      "content": "hey",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1467879025681,
+      "content": "Ask ahmed raza he studies der nly....",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467874763691,
+      "content": "How's TJohn? ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467874756505,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1467868344610,
+      "content": "Ohh i dont noe den",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467824385522,
+      "content": "Bangalore ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1467822925114,
+      "content": "Wich district?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1467822916926,
+      "content": "Donno dude sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467821217569,
+      "content": "How's SRSIT(Shree Revana Sideshwara Institute of Technology)?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1467732095719,
+      "content": "Hello",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467730883898,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467044939073,
+      "content": "Hmmmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1467044910908,
+      "content": "Nt thought abt dat n all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467044841347,
+      "content": "What company are you targeting? ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1467044820855,
+      "content": "i wan gud rank in dat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1467044807664,
+      "content": "GATE",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467044717508,
+      "content": "What are your future plans? ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1467044654860,
+      "content": "Hehe yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467044648330,
+      "content": "That's everyone!! ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1467044625647,
+      "content": "Vishwas*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1467044619849,
+      "content": "CA afza pooja rahul both murthy n jain amit amum vishwaa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1467044590517,
+      "content": "I meet vry few",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1467044582839,
+      "content": "Vtu ppl dont get leav nly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467044580989,
+      "content": "Who? ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1467044567897,
+      "content": "Most of dem r CA students very busy\u00f0\u009f\u0098\u0095",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467044415429,
+      "content": "Not met anyone eh? ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1467044379567,
+      "content": "I ll noe wat dey r doing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1467044361629,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467044320888,
+      "content": "You keep in touch with others is it?? ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1467044281797,
+      "content": "Cs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467044268807,
+      "content": "Okay what has kritika taken? ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1467044249993,
+      "content": "Hmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467044240586,
+      "content": "Yeah? ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1467044216918,
+      "content": "Amc is best in wateva u told",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1467044204620,
+      "content": "All colls r same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1467044199618,
+      "content": "C go visit campuses n decide based on dist frm home n all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467044160078,
+      "content": "Kinda ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1467044134295,
+      "content": "Amc also one girl frm our class is der.....krithika idk if u remember",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1467044107198,
+      "content": "Cs i think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467044034769,
+      "content": "What's course he's taken? ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467044024448,
+      "content": "How is it ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467044019749,
+      "content": "Hmmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1467044004639,
+      "content": "U noe ahmed raza he is in t john",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1467043992074,
+      "content": "Oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467043971547,
+      "content": "T John ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467043963167,
+      "content": "And east west ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467043952113,
+      "content": "I can get into AMC IE",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1467043921428,
+      "content": "Wich do u think u ll get",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1467043908492,
+      "content": "Check last year cuttoff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467043776187,
+      "content": "I didn't get that good rank ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1467043693717,
+      "content": "Ie is pretty much same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1467043671263,
+      "content": "Cs is gud in amc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467043639307,
+      "content": "No IE ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1467043622078,
+      "content": "Etc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1467043618416,
+      "content": "Cs mech civil",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1467043607408,
+      "content": "Lyk ec eee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1467043599884,
+      "content": "Ayyo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1467043262140,
+      "content": "The one close to the zoo ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1466824620011,
+      "content": "Wich branch do u want",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1466824609307,
+      "content": "Depends on branch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1466824566970,
+      "content": "Amc is gud",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1466824561917,
+      "content": "Alliance donno",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1466790919235,
+      "content": "okay hows AMC? Alliance??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1466790904419,
+      "content": "oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1466738172684,
+      "content": "Basavangudi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhoomika Mahesh",
+      "timestamp_ms": 1466737713019,
+      "content": "Bms",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1466710906904,
+      "content": "which college are you in?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1466710898925,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Bhoomika Mahesh",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/BhoomikaMahesh_IgpngKJh1A"
+}

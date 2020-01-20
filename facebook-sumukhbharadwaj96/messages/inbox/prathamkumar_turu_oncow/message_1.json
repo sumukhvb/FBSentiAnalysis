@@ -1,0 +1,94 @@
+{
+  "participants": [
+    {
+      "name": "Pratham Kumar"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pratham Kumar",
+      "timestamp_ms": 1466845251417,
+      "content": "Ask Shashi Sir once",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pratham Kumar",
+      "timestamp_ms": 1466845232468,
+      "content": "Ok put btlit JSSATE Atria",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1466791226355,
+      "content": "how is oxford?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1466514568427,
+      "content": "52k",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1466514543887,
+      "content": "Engg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pratham Kumar",
+      "timestamp_ms": 1466511899768,
+      "content": "how much n wich u want med or engg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1466502481383,
+      "content": "I got more rank. So I don't know which college ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1466502478020,
+      "content": "Choosing college ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pratham Kumar",
+      "timestamp_ms": 1466498797159,
+      "content": "IN WAT",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1466490780868,
+      "content": "I need your help ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1466490769063,
+      "content": "Fine ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pratham Kumar",
+      "timestamp_ms": 1466490718650,
+      "content": "Hi hwa r u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1466490654272,
+      "content": "Hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Pratham Kumar",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/PrathamKumar_TUrU_onCow"
+}

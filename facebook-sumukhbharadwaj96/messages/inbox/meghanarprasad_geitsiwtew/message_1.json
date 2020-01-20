@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Meghana R Prasad"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Meghana R Prasad",
+      "timestamp_ms": 1478178618286,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Meghana R Prasad",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/MeghanaRPrasad_gEitsiwTew"
+}

@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Alpana Sreevatsa"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alpana Sreevatsa",
+      "timestamp_ms": 1493652003824,
+      "content": "Say hi to your new Facebook friend, Alpana.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Alpana Sreevatsa",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/AlpanaSreevatsa_wibF0okmOg"
+}

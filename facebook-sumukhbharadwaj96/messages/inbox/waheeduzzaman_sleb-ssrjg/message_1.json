@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Waheed Uz Zaman"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Waheed Uz Zaman",
+      "timestamp_ms": 1490724317519,
+      "content": "Say hi to your new Facebook friend, Waheed.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Waheed Uz Zaman",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/WaheedUzZaman_sLEb-SsRjg"
+}

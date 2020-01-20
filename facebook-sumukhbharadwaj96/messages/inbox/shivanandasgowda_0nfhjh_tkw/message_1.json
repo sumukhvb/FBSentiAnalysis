@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Shivananda S Gowda"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shivananda S Gowda",
+      "timestamp_ms": 1520954033188,
+      "content": "Say hi to your new Facebook friend, Shivananda.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Shivananda S Gowda",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ShivanandaSGowda_0NFHjh_Tkw"
+}

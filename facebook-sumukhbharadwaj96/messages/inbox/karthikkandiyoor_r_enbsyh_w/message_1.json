@@ -1,0 +1,114 @@
+{
+  "participants": [
+    {
+      "name": "Karthik Kandiyoor"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Karthik Kandiyoor",
+      "timestamp_ms": 1472750626731,
+      "content": "\u00f3\u00be\u008d\u0087",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Karthik Kandiyoor",
+      "timestamp_ms": 1472750622667,
+      "sticker": {
+        "uri": "messages/stickers_used/851587_369239346556147_162929011_n_369239343222814.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1472750595808,
+      "content": "OK. Godspeed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Karthik Kandiyoor",
+      "timestamp_ms": 1472750529708,
+      "content": "V will give on tuseday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Karthik Kandiyoor",
+      "timestamp_ms": 1472750516517,
+      "content": "Yaa v didn't",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1472750508979,
+      "content": "Are yet to",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1472750501390,
+      "content": "Madhu and you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1472750480074,
+      "content": "Everyone gave.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Karthik Kandiyoor",
+      "timestamp_ms": 1472750466822,
+      "content": "V can write vill c that also",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Karthik Kandiyoor",
+      "timestamp_ms": 1472750449016,
+      "content": "Nothing like that da",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1472750410075,
+      "content": "If you don't give, you can't write your exam(it seems)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Karthik Kandiyoor",
+      "timestamp_ms": 1472750364771,
+      "content": "It's kkk da no problem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1472750326098,
+      "content": "They gave time to write math assignment. Today was the last day.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Karthik Kandiyoor",
+      "timestamp_ms": 1472746817809,
+      "content": "Y bro any happen in class ha??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Karthik Kandiyoor",
+      "timestamp_ms": 1472746778012,
+      "content": "Was out da with my friends",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1472746147424,
+      "content": "Yaako classig bandilla?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Karthik Kandiyoor",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/KarthikKandiyoor_R_enbSYh_w"
+}

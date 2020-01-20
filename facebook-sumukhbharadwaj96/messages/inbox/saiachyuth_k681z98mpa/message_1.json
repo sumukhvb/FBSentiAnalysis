@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Sai Achyuth"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sai Achyuth",
+      "timestamp_ms": 1509271796234,
+      "content": "Thanks Maga",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumukh Bharadwaj",
+      "timestamp_ms": 1509271783459,
+      "content": "Happy birthday macha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sai Achyuth",
+      "timestamp_ms": 1498048737766,
+      "content": "Say hi to your new Facebook friend, Sai.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sai Achyuth",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/SaiAchyuth_k681z98MPA"
+}

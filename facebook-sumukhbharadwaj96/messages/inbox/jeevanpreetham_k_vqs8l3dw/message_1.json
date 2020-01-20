@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Jeevan Preetham"
+    },
+    {
+      "name": "Sumukh Bharadwaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jeevan Preetham",
+      "timestamp_ms": 1494861113457,
+      "content": "Say hi to your new Facebook friend, Jeevan.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jeevan Preetham",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/JeevanPreetham_k_vqs8L3dw"
+}
